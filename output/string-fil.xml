@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">undefined
+	<string name="yes">OO</string>
+	<string name="no">HINDI</string>
+
+	<!-- Permissions page -->
+	<string name="timby_permissions_title">Bigyans ng Mga Permiso ang TIMBY</string>
+	<string name="timby_permissions_justification">Kailangan ng TIMBY ng permiso sa camera, audio, GPS, storage at telepono</string>
+
+	<!-- Login page -->
+	<string name="login__username">username</string>
+	<string name="login__password">password</string>
+	<string name="login">Mag-login</string>
+	<string name="provide_details">Kailangan mong ibigay ang parehong username at password!</string>
+	<string name="provide_terms">Kailangan mong sumang-ayon sa mga tuntunin at kondisyon upang magpatuloy</string>
+	<string name="attempting_login">Sinusubukang mag-login…</string>
+	<string name="incorrect_details">Maling username at/o password!</string>
+	<string name="details_not_set">Hindi nai-set ang username at/o password!</string>
+	<string name="incorrect_pswd">Maling password</string>
+	<string name="unexpected_server_error">Hindi inaasahang server error!</string>
+	<string name="downloading_data_login">Nagda-download ng data ng application ..</string>
+
+	<!-- API Configuration Page -->
+	<string name="cannot_proceed">Hindi makatuloy nang walang API URL</string>
+	<string name="provide_api_url">Mangyaring magbigay ng API URL</string>
+	<string name="malformed_url">Wala sa ayos/Hindi balidong API URL</string>
+	<string name="api_configured">Nai-configure na ang API URL!</string>
+	<string name="invalid_api">Hindi balidong API URL!</string>
+
+	<!-- Settings Icon -->
+	<string name="overflow_settings">Mga Setting</string>
+	<string name="overflow_logout">Mag-logout</string>
+
+	<!--GPS Page -->
+	<string name="gps_settigs_off">Hindi naka-activate ang GPS</string>
+
+	<!-- Encryption -->
+	<string name="encryption_title">Media Encryption</string>
+	<string name="encryption_failed">Nabigo, susubukang muli!</string>
+
+	<!-- Sync -->
+	<string name="save_unsaved_changes_alert">I-save ang iyong mga pagbabago?</string>
+	<string name="sync">I-sync sa Server</string>
+	<string name="syncing_initializing">Sinisimulan…</string>
+	<string name="sync_storage">Magagamit na imbakan:% 1 $ s Laki ng imbakan ng ulat:% 2 $ s</string>
+	<string name="syncing_uploading">Ina-upload ang media</string>
+	<string name="syncing_of">ng</string>
+	<string name="syncing_warning">Babala!</string>
+	<string name="syncing_success">Tagumpay</string>
+	<string name="syncing_fail">Hindi nagtagumpay ang pag-sync!</string>
+	<string name="syncing_ok">Matagumpay ang pag-sync!</string>
+	<string name="syncing_report_of">Sini-sync ang Report</string>
+	<string name="syncing_started">Nagsimula na…</string>
+	<string name="token_expired">Nag-expire na ang token!</string>
+	<string name="syncing_login_again">Mag-log in nang may internet at subukang muli!</string>
+	<string name="syncing_invalid_token">Hindi mai-sync dahil sa hindi balidong token!</string>
+	<string name="syncing_running">Patuloy pa rin sa pag-sync!</string>
+	<string name="syncing_export_running">Ang pag-sync / Pag-export ay tumatakbo na!</string>
+	<string name="nothing_selected_sync">Piliin ang mga ulat / karaingan upang mai-sync!</string>
+
+	<!-- Zip -->
+	<string name="zip_initializing">Sinisimulan…</string>
+	<string name="export">Ilipat sa SD</string>
+	<string name="export_adding">Nagdadagdag ng media</string>
+	<string name="export_ok">Matagumpay na nailipat</string>
+	<string name="attaching_xml">Ina-attach ang XML file ng mga report…</string>
+	<string name="export_count">Ine-export ang ulat %1$d ng %2$d</string>
+	<string name="export_running">Ang pag-export ay tumatakbo na!</string>
+	<string name="nothing_selected_export">Piliin ang mga ulat / karaingan upang ma-export!</string>
+
+	<!-- Home page -->
+	<string name="add">Magdagdag ng Report</string>
+	<string name="add_grievance_on">Magdagdag</string>
+	<string name="view">Tingnan ang Mga Report</string>
+	<string name="view_grievance_on">Tingnan</string>
+	<string name="help">Mga Aral</string>
+	<string name="sync_label">I-upload sa Dashboard</string>
+	<string name="initiate_downloading_lessons">Walang nakitang aral! Dina-download…</string>
+	<string name="internet_conection_needed">Kailangan ng koneksyon sa internet upang mag-download ng mga aral. Lumipat sa WIFI o Mobile Data…</string>
+	<string name="no_internet_conection">Wala kang internet connection!</string>
+	<string name="err_storage_not_ready">Mukhang hindi available ang external storage (SDCard) para sa pagbabasa at pagsusulat sa sandaling ito. Nangangailangan ang TIMBY ng access dito para sa data ng aral at proyektong istorya. Pakitsek ng iyong device at i-restart ang App.</string>
+	<string name="enter_password">Ilagay ang password</string>
+
+	<!-- Settings page -->
+	<string name="timby_status">KOMPIGASYON NG APP</string>
+	<string name="timby_dashboard">TIMBY Dashboard</string>
+	<string name="timby_icon">TIMBY Discreet Icon</string>
+	<string name="timby_icon_subtitle">Pumili ng isang ginustong icon ng app at pangalan ng app</string>
+	<string name="timby_icon_name_changer_title">Piliin ang iyong ninanais na icon ng launcher ng TIMBY at pangalan ng app</string>
+	<string name="timby_network">Kasalukuyang Uri ng Network</string>
+	<string name="timby_video_length">Haba ng Video ng TIMBY</string>
+	<string name="timby_video_length_subtitle">minuto</string>
+	<string name="timby_version">APP VERSION</string>
+	<string name="timby_version_label">Bersyon ng TIMBY</string>
+	<string name="timby_reset">RESET APPLIKASYON</string>
+	<string name="timby_reset_label">I-reset ang TIMBY App</string>
+	<string name="timby_reset_label_subtitle">Malutas ang mga isyu sa Pag-sync / Export / Mapa</string>
+	<string name="api_url">TIMBY API URL</string>
+	<string name="set">I-set</string>
+	<string name="settings_saved">Nai-save na ang mga setting!</string>
+	<string name="timby_analytics_title">TIMBY analytics</string>
+	<string name="opt_in_out">Magpadala ng Analytics</string>
+	<string name="timby_analytics_subtitle">Tinutulungan kami ng Analytics na bumuo ng mas mahusay na mga tampok. Hindi namin kinokolekta ang iyong personal na impormasyon</string>
+
+	<!-- Add Report Page -->
+	<string name="add_picture">Larawan</string>
+	<string name="add_video">Video</string>
+	<string name="add_audio">Audio</string>
+	<string name="view_gallery">Gallery</string>
+	<string name="enter_title">Maglagay ng Pamagat</string>
+	<string name="company_or_person_field">Kompanya/Tao</string>
+	<string name="description_field">Sabihin sa amin kung anong nangyayari</string>
+	<string name="location_not_set">Hindi naitakda ang lokasyon</string>
+	<string name="done">Tapos na</string>
+	<string name="edit_report">I-edit ang Report</string>
+	<string name="no_media_added">Wala pang naidagdag na media sa report na ito!</string>
+	<string name="location_is_not_set">May problema sa paghahanap ng lokasyon. Subukang muli sa ibang pagkakataon!</string>
+	<string name="updated_successfully">tagumpay na na-update!</string>
+	<string name="caption_updated">Matagumpay na na-update ang Caption!</string>
+	<string name="select_sector">Pumili ng Sektor</string>
+	<string name="location_permission_rationale">Kinakailangan ang pahintulot sa lokasyon upang ipakita ang lokasyon ng iyong ulat</string>
+	<string name="image_video_permission_rationale">Inakailangan ang pahintulot sa kamera upang magdagdag ng mga larawan o video sa iyong ulat</string>
+	<string name="audio_permission_rationale">Kinakailangan ang pahintulot sa audio upang magdagdag ng audio sa iyong ulat</string>
+
+	<!--Add  Caption -->
+	<string name="story_publish_describe_hint">Ilarawan ang iyong nakuhang litrato</string>
+	<string name="add__caption">Magdagdag ng Caption</string>
+	<string name="add_caption">Magdagdag ng caption</string>
+	<string name="skip__caption">Laktawan</string>
+
+	<!--Reports Page -->
+	<string name="report_title">Pamagat</string>
+	<string name="report_status">Status</string>
+	<string name="report_date">Petsa</string>
+	<string name="not_synced">Hindi naka-sync</string>
+	<string name="synced">Naka-sync</string>
+	<string name="not_exported">Hindi nai-export</string>
+	<string name="exported">Nai-export</string>
+	<string name="delete_report_confirmation">Sigurado kabang gusto mong burahin ang report?</string>
+	<string name="cancel_">Kanselahin</string>
+	<string name="ok">OK</string>
+
+	   <!--Map Page -->
+	<string name="map">Mapa</string>
+	<string name="layers">Mga Layer</string>
+	<string name="map_layers">Mga layer ng mapa</string>
+	<string name="map_vectors">Mga vectors ng mapa</string>
+	<string name="initiate_downloading_offline_map">Walang nakitang mapa! Nagda-download..</string>
+	<string name="internet_conection_needed_map">Kailangan ng koneksyon sa Internet para ma-download ang mapa. Kumonekta sa WIFI o Mobile Data.</string>
+	<string name="downloading_maps_prompt">Nagda-download ang Offline Map</string>
+	<string name="currently_downloading_maps_prompt">Kasalukuyang nagda-download ang Offline Map</string>
+	<string name="close">Isara</string>
+
+	 <!--Grievances Page -->
+	<string name="add_grievance_title">Gusto mo bang magdagdag ng bagong ulat o maghain ng reklamo?</string>
+	<string name="grievance">Reklamo</string>
+	<string name="date_of_grievance">Petsa ng reklamo</string>
+	<string name="where_it_happened">Lokasyon kung saan ito nangyari</string>
+	<string name="grievance_date">Petsa ng reklamo %1$s</string>
+	<string name="select_sector_grievance">Pumili ng uri ng reklamo</string>
+	<string name="report">Ulat</string>
+	<string name="select_urgency">Piliin ang pangangailangan ng agarang pagtugon</string>
+	<string name="edit_grievance">Baguhin ang reklamo</string>
+	<string name="add_grievance">Magdagdag ng reklamo</string>
+	<string name="sync_grievance">Pag-sync ang reklamo sa Server</string>
+	<string name="syncing_grievance_of">Pag-sync ng reklamo</string>
+	<string name="grievance_status">Anong uri ng karaingan ang kinukuha mo?</string>
+	<string name="grievance_cannot_save">Hindi makapag-save ng karaingan nang walang isang wastong ID ng karaingan. Itapon ang karaingan?</string>
+
+	<!--Lessons Page -->
+	<string name="lessons_folder_error">Nagkaproblema sa paglikha ng folder ng mga aralin</string>
+	<string name="lessons_prompt">Mga Aralin</string>
+	<string name="lessons_unzipping">Ina-unzip ang Mga Aralin…</string>
+	<string name="lessons_thumbnails">Lumilikha ng mga thumbnail…</string>
+	<string name="lessons_completed">Kumpleto na!</string>
+
+	<!--Reports Page -->
+	<string name="title_projects">MMga File ng Media</string>
+	<string name="projects_not_uploaded">Hindi nai-upload</string>
+	<string name="projects_uploaded">Nai-upload na!</string>
+	<string name="loading">Naglo-load…</string>
+	<string name="captured_at">Kinuha sa</string>
+
+	<!-- Audio Recorder -->
+	<string name="recording_stopped">Huminto ang pagrekord</string>
+	<string name="storage_is_full">Puno na ang storage</string>
+	<string name="max_length_reached">Naabot na ang maximum na haba</string>
+	<string name="insert_sd_card">Kailangan ng SD Card</string>
+	<string name="button_ok">OK</string>
+	<string name="error_sdcard_access">Hindi ma-access ang external o internal storage</string>
+	<string name="error_app_internal">Error sa internal application</string>
+	<string name="error_mediadb_new_record">Hindi mai-save ang nairekord na audio</string>
+	<string name="delete_dialog_title">Burahin ang iyong audio recording?</string>
+	<string name="overwrite_dialog_title">%s ay dati nang umiiral. Gusto mo ba itong i-overwrite?</string>
+	<string name="notification_recording">Nagrerekord…</string>
+	<string name="notification_stopped">Itinigil ang pagrerekord</string>
+	<string name="notification_warning">Mababa na ang storage (mas mababa sa %d minuto)…</string>
+	<string name="description_field_grievance">Pahayag &amp; Inaasahang tugon</string>
+
+
+	<string name="app_name">TIMBY</string>
+	<string name="app_name_facebook">Chat+</string>
+	<string name="app_name_youtube">Player Pro</string>
+	<string name="protocol">https://</string>
+	<string name="timer_format"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
+	<string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+	<string name="audio_db_artist_name">Your recordings</string>
+	<string name="audio_db_album_name">Audio recordings</string>
+	<string name="audio_db_playlist_name">My recordings</string>
+	<string name="prefDefault_recordType">audio/aac</string>
+</resources>

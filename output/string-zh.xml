@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">undefined
+	<string name="yes">是</string>
+	<string name="no">否</string>
+
+	<!-- Permissions page -->
+	<string name="timby_permissions_title">授予 TIMBY 許可權</string>
+	<string name="timby_permissions_justification">TIMBY 需要相機、音訊、GPS、存儲及電話許可權</string>
+
+	<!-- Login page -->
+	<string name="login__username">用戶名稱</string>
+	<string name="login__password">密碼</string>
+	<string name="login">登入</string>
+	<string name="provide_details">你需要提供用戶名稱和密碼！</string>
+	<string name="provide_terms">你必須同意條款及條件，才能繼續進行</string>
+	<string name="attempting_login">正在登入...</string>
+	<string name="incorrect_details">用戶名稱和/或密碼不正確！</string>
+	<string name="details_not_set">尚未設定用戶名稱及/或密碼!</string>
+	<string name="incorrect_pswd">密碼錯誤</string>
+	<string name="unexpected_server_error">伺服器出現意外錯誤!</string>
+	<string name="downloading_data_login">下載應用程式數據...</string>
+
+	<!-- API Configuration Page -->
+	<string name="cannot_proceed">沒有 API URL，無法繼續運作</string>
+	<string name="provide_api_url">請提供一個 API URL</string>
+	<string name="malformed_url">API 網址格式錯誤/無效</string>
+	<string name="api_configured">已配置 API URL！</string>
+	<string name="invalid_api">API URL 無效！</string>
+
+	<!-- Settings Icon -->
+	<string name="overflow_settings">設定</string>
+	<string name="overflow_logout">退出</string>
+
+	<!--GPS Page -->
+	<string name="gps_settigs_off">尚未啟動 GPS</string>
+
+	<!-- Encryption -->
+	<string name="encryption_title">媒體加密</string>
+	<string name="encryption_failed">失敗, 重試!</string>
+
+	<!-- Sync -->
+	<string name="save_unsaved_changes_alert">保存變更？</string>
+	<string name="sync">同步到伺務器</string>
+	<string name="syncing_initializing">正在初始化…</string>
+	<string name="sync_storage">可用存儲空間：％1$s  報告存儲空間：％2$s</string>
+	<string name="syncing_uploading">上載媒體</string>
+	<string name="syncing_of">/</string>
+	<string name="syncing_warning">警告！</string>
+	<string name="syncing_success">成功</string>
+	<string name="syncing_fail">同步失敗！</string>
+	<string name="syncing_ok">同步成功！</string>
+	<string name="syncing_report_of">正在同步報告</string>
+	<string name="syncing_started">已開始…</string>
+	<string name="token_expired">權杖過期!</string>
+	<string name="syncing_login_again">使用互聯網登入，然後重試！</string>
+	<string name="syncing_invalid_token">無法與無效權杖同步！</string>
+	<string name="syncing_running">同步正在運作！</string>
+	<string name="syncing_export_running">同步/匯出已在運作！</string>
+	<string name="nothing_selected_sync">選擇要同步的報告/申訴！</string>
+
+	<!-- Zip -->
+	<string name="zip_initializing">正在初始化…</string>
+	<string name="export">匯出到 SD 卡</string>
+	<string name="export_adding">新增媒體</string>
+	<string name="export_ok">成功匯出</string>
+	<string name="attaching_xml">附加報告 XML 文件…</string>
+	<string name="export_count">匯出報告 %2$d 的 %1$d</string>
+	<string name="export_running">匯出已在運作！</string>
+	<string name="nothing_selected_export">選擇要匯出的報告/申訴！</string>
+
+	<!-- Home page -->
+	<string name="add">新增報告</string>
+	<string name="add_grievance_on">新增</string>
+	<string name="view">查看報告</string>
+	<string name="view_grievance_on">查看</string>
+	<string name="help">視頻課程</string>
+	<string name="sync_label">上載到資訊主頁</string>
+	<string name="initiate_downloading_lessons">找不到視頻課程！ 正在下載…</string>
+	<string name="internet_conection_needed">下載課程需要網路連接。請開啟 WIFI 或移動數據。</string>
+	<string name="no_internet_conection">沒有互聯網連接！</string>
+	<string name="err_storage_not_ready">外部存儲（SD 卡）目前似乎無法讀取和寫入。 TIMBY 要求存此資訊，以獲取課程和故事項目數據。請檢查你的設備, 重新啟動應用程式。</string>
+	<string name="enter_password">輸入密碼</string>
+
+	<!-- Settings page -->
+	<string name="timby_status">應用程式狀態</string>
+	<string name="timby_dashboard">TIMBY 資訊主頁</string>
+	<string name="timby_icon">TIMBY 掩飾圖示</string>
+	<string name="timby_icon_subtitle">選擇首選的應用程式的圖示和名稱</string>
+	<string name="timby_icon_name_changer_title">選擇所需的TIMBY啟動器圖示和應用程式名稱</string>
+	<string name="timby_network">目前網絡類型</string>
+	<string name="timby_video_length">TIMBY 影片長度</string>
+	<string name="timby_video_length_subtitle">分鐘</string>
+	<string name="timby_version">應用程式版本</string>
+	<string name="timby_version_label">TIMBY 版本</string>
+	<string name="timby_reset">重設應用程式</string>
+	<string name="timby_reset_label">重設 TIMBY 應用程式</string>
+	<string name="timby_reset_label_subtitle">解決同步/匯出/地圖問題</string>
+	<string name="api_url">TIMBY API URL</string>
+	<string name="set">設定</string>
+	<string name="settings_saved">已保存設定！</string>
+	<string name="timby_analytics_title">TIMBY分析</string>
+	<string name="opt_in_out">發送分析</string>
+	<string name="timby_analytics_subtitle">Analytics（分析）可幫助我們構建更好的功能。我們從不收集您的個人信息</string>
+
+	<!-- Add Report Page -->
+	<string name="add_picture">圖片</string>
+	<string name="add_video">影片</string>
+	<string name="add_audio">音訊</string>
+	<string name="view_gallery">圖片庫</string>
+	<string name="enter_title">輸入標題</string>
+	<string name="company_or_person_field">公司 / 個人</string>
+	<string name="description_field">請填寫內容</string>
+	<string name="location_not_set">尚未設定位置</string>
+	<string name="done">完成</string>
+	<string name="edit_report">編輯報告</string>
+	<string name="no_media_added">尚未在此報告上新增任何媒體！</string>
+	<string name="location_is_not_set">找不到位置，稍後再試！</string>
+	<string name="updated_successfully">更新成功！</string>
+	<string name="caption_updated">標題成功更新！</string>
+	<string name="select_sector">請選擇類別</string>
+	<string name="location_permission_rationale">需要位置許可權，顯示報告的位置</string>
+	<string name="image_video_permission_rationale">需要相機許可權，將圖片或影片新增到你的報告</string>
+	<string name="audio_permission_rationale">需要音訊許可權，將音訊新增到你的報告</string>
+
+	<!--Add  Caption -->
+	<string name="story_publish_describe_hint">描述圖片或影片</string>
+	<string name="add__caption">新增標題</string>
+	<string name="add_caption">新增標題</string>
+	<string name="skip__caption">跳過</string>
+
+	<!--Reports Page -->
+	<string name="report_title">標題</string>
+	<string name="report_status">狀態</string>
+	<string name="report_date">日期</string>
+	<string name="not_synced">沒有同步</string>
+	<string name="synced">已同步</string>
+	<string name="not_exported">尚未匯出</string>
+	<string name="exported">已匯出</string>
+	<string name="delete_report_confirmation">確定要刪除報告？</string>
+	<string name="cancel_">取消</string>
+	<string name="ok">確定</string>
+
+	   <!--Map Page -->
+	<string name="map">地圖</string>
+	<string name="layers">圖層</string>
+	<string name="map_layers">地圖圖層</string>
+	<string name="map_vectors">地圖向量</string>
+	<string name="initiate_downloading_offline_map">找不到地圖！ 正在下載…</string>
+	<string name="internet_conection_needed_map">下載地圖需要連接互聯網。請開啟 WIFI 或移動數據。</string>
+	<string name="downloading_maps_prompt">下載離線地圖</string>
+	<string name="currently_downloading_maps_prompt">目前正在下載離線地圖</string>
+	<string name="close">關閉</string>
+
+	 <!--Grievances Page -->
+	<string name="add_grievance_title">你要新增新報告還是提出申訴？</string>
+	<string name="grievance">申訴</string>
+	<string name="date_of_grievance">申訴日期</string>
+	<string name="where_it_happened">發生位置</string>
+	<string name="grievance_date">申訴日期 %1$s</string>
+	<string name="select_sector_grievance">請選擇申訴類別</string>
+	<string name="report">報告</string>
+	<string name="select_urgency">選擇緊急程度</string>
+	<string name="edit_grievance">編輯申訴</string>
+	<string name="add_grievance">新增申訴</string>
+	<string name="sync_grievance">將申訴同步到伺務器</string>
+	<string name="syncing_grievance_of">正在同步申訴</string>
+	<string name="grievance_status">你的申訴類別屬哪一項?</string>
+	<string name="grievance_cannot_save">申訴 ID 無效，無法保存申訴，請放棄申訴</string>
+
+	<!--Lessons Page -->
+	<string name="lessons_folder_error">創建課程文件夾時出現問題</string>
+	<string name="lessons_prompt">課程</string>
+	<string name="lessons_unzipping">正在解壓縮課程...</string>
+	<string name="lessons_thumbnails">正在產生縮圖…</string>
+	<string name="lessons_completed">完成！</string>
+
+	<!--Reports Page -->
+	<string name="title_projects">媒體文件</string>
+	<string name="projects_not_uploaded">尚未上載！</string>
+	<string name="projects_uploaded">已上載！</string>
+	<string name="loading">正在上載！</string>
+	<string name="captured_at">錄製於</string>
+
+	<!-- Audio Recorder -->
+	<string name="recording_stopped">錄音已停止</string>
+	<string name="storage_is_full">儲存空間已滿</string>
+	<string name="max_length_reached">已逹到最長時間</string>
+	<string name="insert_sd_card">需要 SD 卡</string>
+	<string name="button_ok">確定</string>
+	<string name="error_sdcard_access">無法存取外部或內部存儲</string>
+	<string name="error_app_internal">內部應用程式錯誤</string>
+	<string name="error_mediadb_new_record">無法保存錄製的音訊</string>
+	<string name="delete_dialog_title">刪除錄音?</string>
+	<string name="overwrite_dialog_title">％s已經存在，要覆蓋原有信息嗎？</string>
+	<string name="notification_recording">正在錄音</string>
+	<string name="notification_stopped">錄音已停止</string>
+	<string name="notification_warning">存儲空間不足（少於 ％d 分鐘）。</string>
+	<string name="description_field_grievance">陳述; 預期行動</string>
+
+
+	<string name="app_name">TIMBY</string>
+	<string name="app_name_facebook">Chat+</string>
+	<string name="app_name_youtube">Player Pro</string>
+	<string name="protocol">https://</string>
+	<string name="timer_format"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
+	<string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+	<string name="audio_db_artist_name">Your recordings</string>
+	<string name="audio_db_album_name">Audio recordings</string>
+	<string name="audio_db_playlist_name">My recordings</string>
+	<string name="prefDefault_recordType">audio/aac</string>
+</resources>

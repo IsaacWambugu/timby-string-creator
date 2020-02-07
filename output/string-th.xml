@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">undefined
+	<string name="yes">ใช่</string>
+	<string name="no">ไม่</string>
+
+	<!-- Permissions page -->
+	<string name="timby_permissions_title">อนุมัติคำขอของ TIMBY</string>
+	<string name="timby_permissions_justification">TIMBY ต้องการเข้าถึงกล้อง, เสียง, GPS, หน่วยความจำ และโทรศัพท์</string>
+
+	<!-- Login page -->
+	<string name="login__username">ชื่อผู้ใช้งาน
+</string>
+	<string name="login__password">รหัสผ่าน</string>
+	<string name="login">เข้าสู่ระบบ</string>
+	<string name="provide_details">คุณต้องใส่ทั้งชื่อผู้ใช้งานและรหัสผ่าน!</string>
+	<string name="provide_terms">คุณจำเป็นต้องยอมรับข้อตกลงและเงื่อนไขเพื่อดำเนินการต่อ</string>
+	<string name="attempting_login">กำลังเข้าสู่ระบบ..</string>
+	<string name="incorrect_details">ชื่อผู้ใช้งาน และ/หรือ รหัสผ่านไม่ถูกต้อง!
+</string>
+	<string name="details_not_set">ชื่อผู้ใช้งาน และ/หรือ รหัสผ่าน ยังไม่สมบูรณ์
+</string>
+	<string name="incorrect_pswd">รหัสผ่านไม่ถูกต้อง</string>
+	<string name="unexpected_server_error">เซิร์ฟเวอร์ล้มเหลว!</string>
+	<string name="downloading_data_login">กำลังโหลดข้อมูล..</string>
+
+	<!-- API Configuration Page -->
+	<string name="cannot_proceed">ไม่สามารถตำเนินการได้หากไม่มี API URL</string>
+	<string name="provide_api_url">กรุณาใส่ API URL</string>
+	<string name="malformed_url">API URL ไม่สมบูรณ์/ไม่พบ API URL</string>
+	<string name="api_configured">ปรับแต่ง API URL เรียบร้อย!</string>
+	<string name="invalid_api">ไม่พบ API URL</string>
+
+	<!-- Settings Icon -->
+	<string name="overflow_settings">การตั้งค่า</string>
+	<string name="overflow_logout">ออกจากระบบ</string>
+
+	<!--GPS Page -->
+	<string name="gps_settigs_off">GPS ไม่ได้เปิดใช้งาน</string>
+
+	<!-- Encryption -->
+	<string name="encryption_title">การเข้ารหัสมีเดีย</string>
+	<string name="encryption_failed">ล้มเหลว ลองอีกครั้ง!</string>
+
+	<!-- Sync -->
+	<string name="save_unsaved_changes_alert">บันทึกการเปลี่ยนแปลง?  </string>
+	<string name="sync">ถ่ายโอนไปยังเซิร์ฟเวอร์</string>
+	<string name="syncing_initializing">ดำเนินการ..</string>
+	<string name="sync_storage">พื้นที่จัดเก็บคงเหลือ: %1$s พื้นที่จัดเก็บรายงานขนาด: %2$s</string>
+	<string name="syncing_uploading">ทำการอัปโหลดมีเดีย</string>
+	<string name="syncing_of">จาก</string>
+	<string name="syncing_warning">คำเตือน!</string>
+	<string name="syncing_success">สำเร็จ</string>
+	<string name="syncing_fail">การถ่ายโอนข้อมูลไม่สำเร็จ</string>
+	<string name="syncing_ok">การถ่ายโอนข้อมูลสำเร็จ</string>
+	<string name="syncing_report_of">รายงานการถ่ายโอนข้อมูล</string>
+	<string name="syncing_started">เริ่มต้น..</string>
+	<string name="token_expired">เหรียญหมดอายุแล้ว!</string>
+	<string name="syncing_login_again">เข้าสู่ระบบด้วยอินเตอร์เน็ต และลองอีกครั้ง!</string>
+	<string name="syncing_invalid_token">ไม่สามารถถ่ายโอนข้อมูลด้วยเหรียญที่ไม่สมบูรณ์ได้</string>
+	<string name="syncing_running">กำลังถ่ายโอนข้อมูล!</string>
+	<string name="syncing_export_running">การถ่ายโอน/การส่งออก กำลังดำเนินการ!</string>
+	<string name="nothing_selected_sync">เลือกการรายงาน/คำร้องในการถ่ายโอน!</string>
+
+	<!-- Zip -->
+	<string name="zip_initializing">ดำเนินการ..</string>
+	<string name="export">ส่งออกไปยังการ์ด SD</string>
+	<string name="export_adding">เพิ่มมีเดีย</string>
+	<string name="export_ok">ส่งออกเสร็จสมบูรณ์</string>
+	<string name="attaching_xml">แนบการรายงานด้วยไฟล์ XML..</string>
+	<string name="export_count">ส่งออกรายงาน %1$d จาก %2$d</string>
+	<string name="export_running">การส่งออกกำลังดำเนินการ!</string>
+	<string name="nothing_selected_export">เลือกการรายงาน/คำร้องในการส่งออก!</string>
+
+	<!-- Home page -->
+	<string name="add">เพิ่มการรายงาน</string>
+	<string name="add_grievance_on">เพิ่ม</string>
+	<string name="view">ดูการรายงาน</string>
+	<string name="view_grievance_on">ดู</string>
+	<string name="help">วิดีโอสาธิตการใช้งาน</string>
+	<string name="sync_label">อัปโหลดไปยังหน้ากระดาน</string>
+	<string name="initiate_downloading_lessons">ไม่พบวิดีโอสาธิตการใช้งาน! กำลังดาวน์โหลด</string>
+	<string name="internet_conection_needed">การเชื่อมต่ออินเตอร์เน็ตจำเป็นสำหรับการดาวน์โหลดวิดีโอสาธิตการใช้งาน เปิดใช้งาน WIFI หรืออินเตอร์เน็ตมือถือ</string>
+	<string name="no_internet_conection">คุณไม่ได้ทำการเชื่อมต่ออินเตอร์เน็ต</string>
+	<string name="err_storage_not_ready">พื้นที่จัดเก็บบนการ์ด SD ไม่เพียงพอสำหรับการอ่านและเขียนข้อมูลครั้งนี้ TIMBY จำเป็นต้องเข้าถึงพื้นที่นี้เพื่อวิดีโอสาธิตการใช้งานและข้อมูลโปรเจค โปรดเช็คอุปกรณ์ของคุณและทำการรีสตาร์ทแอปพลิเคชัน</string>
+	<string name="enter_password">ใส่รหัสผ่าน</string>
+
+	<!-- Settings page -->
+	<string name="timby_status">สถานะ APP</string>
+	<string name="timby_dashboard">หน้ากระดาน TIMBY</string>
+	<string name="timby_icon">TIMBY Discreet Icon</string>
+	<string name="timby_icon_subtitle">เลือกไอคอนและชื่อของ APP ที่ต้องการ</string>
+	<string name="timby_icon_name_changer_title">เลือกไอคอนเปิดการใช้งาน TIMBY และชื่อของ APP ที่ต้องการ</string>
+	<string name="timby_network">ประเภทเครือข่ายปัจจุบัน</string>
+	<string name="timby_video_length">ความยาววิดีโอของ TIMBY</string>
+	<string name="timby_video_length_subtitle">นาที</string>
+	<string name="timby_version">เวอร์ชัน APP</string>
+	<string name="timby_version_label">เวอร์ชัน TIMBY</string>
+	<string name="timby_reset">รีเซ็ต APP</string>
+	<string name="timby_reset_label">รีเซ็ต TIMBY APP</string>
+	<string name="timby_reset_label_subtitle">แก้ไขปัญหา การถ่ายโอน/การส่งออก/แผนที่</string>
+	<string name="api_url">TIMBY API URL</string>
+	<string name="set">ตั้งค่า</string>
+	<string name="settings_saved">การตั้งค่าถูกบันทึกแล้ว!</string>
+	<string name="timby_analytics_title">การวิเคราะห์ TIMBY</string>
+	<string name="opt_in_out">ส่งการวิเคราะห์</string>
+	<string name="timby_analytics_subtitle">Analytics ช่วยให้เราสร้างคุณสมบัติที่ดีขึ้น เราไม่เคยรวบรวมข้อมูลส่วนบุคคลของคุณ</string>
+
+	<!-- Add Report Page -->
+	<string name="add_picture">รูปภาพ</string>
+	<string name="add_video">วิดีโอ</string>
+	<string name="add_audio">เสียง</string>
+	<string name="view_gallery">อัลบั้ม</string>
+	<string name="enter_title">ใส่ชื่อเรื่อง</string>
+	<string name="company_or_person_field">บริษัท/บุคคล</string>
+	<string name="description_field">เล่าสิ่งที่เกิดขึ้น</string>
+	<string name="location_not_set">สถานที่ยังไม่ได้ทำการตั้งค่า</string>
+	<string name="done">เสร็จ</string>
+	<string name="edit_report">แก้ไขการรายงาน</string>
+	<string name="no_media_added">ยังไม่มีการเพิ่มมีเดียบนการรายงานนี้!</string>
+	<string name="location_is_not_set">พบปัญหาในการหาสถานที่ ลองใหม่อีกครั้ง!</string>
+	<string name="updated_successfully">การอัปเดตเสร็จสมบูรณ์!</string>
+	<string name="caption_updated">คำอธิบายภาพอัปเดตเสร็จสมบูรณ์!</string>
+	<string name="select_sector">เลือกแผนก</string>
+	<string name="location_permission_rationale">การอนุญาตให้เข้าถึงสถานที่เป็นเรื่องจำเป็นในการแสดงสถานที่บนการรายงานของคุณ</string>
+	<string name="image_video_permission_rationale">การอนุญาตให้เข้าถึงกล้องเป็นเรื่องจำเป็นในการเพิ่มรูปภาพหรือวิดีโอบนการรายงานของคุณ</string>
+	<string name="audio_permission_rationale">การอนุญาตให้เข้าถึงเสียงเป็นเรื่องจำเป็นในการเพิ่มเสียงบนการรายงานของคุณ</string>
+
+	<!--Add  Caption -->
+	<string name="story_publish_describe_hint">อธิบายรูปภาพของคุณ..</string>
+	<string name="add__caption">เพิ่มคำอธิบาย</string>
+	<string name="add_caption">เพิ่มคำอธิบาย</string>
+	<string name="skip__caption">ข้าม</string>
+
+	<!--Reports Page -->
+	<string name="report_title">ข้อเรื่อง</string>
+	<string name="report_status">สถานะ</string>
+	<string name="report_date">วันที่</string>
+	<string name="not_synced">ยังไม่ได้ถ่ายโอน</string>
+	<string name="synced">ถ่ายโอนแล้ว</string>
+	<string name="not_exported">ยังไม่ได้ส่งออก</string>
+	<string name="exported">ส่งออกแล้ว</string>
+	<string name="delete_report_confirmation">คุณแน่ใจว่าต้องการลบการรายงานหรือไม่?</string>
+	<string name="cancel_">ยกเลิก</string>
+	<string name="ok">ตกลง</string>
+
+	   <!--Map Page -->
+	<string name="map">แผนที่</string>
+	<string name="layers">เลเยอร์</string>
+	<string name="map_layers">เลเยอร์แผนที่</string>
+	<string name="map_vectors">แผนที่เวกเตอร์</string>
+	<string name="initiate_downloading_offline_map">ไม่พบแผนที่! กำลังดาวน์โหลด..</string>
+	<string name="internet_conection_needed_map">การเชื่อมต่ออินเตอร์เน็ตจำเป็นสำหรับการดาวน์โหลดแผนที่ เปิดใช้งาน WIFI หรืออินเตอร์เน็ตมือถือ</string>
+	<string name="downloading_maps_prompt">ดาวน์โหลดแผนที่ออฟไลน์</string>
+	<string name="currently_downloading_maps_prompt">กำลังทำการดาวน์โหลดแผนที่ออฟไลน์</string>
+	<string name="close">ปิด</string>
+
+	 <!--Grievances Page -->
+	<string name="add_grievance_title">คุณต้องการเพิ่มรายงานใหม่หรือยื่นคำร้อง?</string>
+	<string name="grievance">คำร้อง</string>
+	<string name="date_of_grievance">วันที่คำร้อง</string>
+	<string name="where_it_happened">สถานที่เกิดเหตุ</string>
+	<string name="grievance_date">คำร้องวันที่ %1$s</string>
+	<string name="select_sector_grievance">เลือกประเภทของคำร้อง</string>
+	<string name="report">รายงาน</string>
+	<string name="select_urgency">เลือกความเร่งด่วน</string>
+	<string name="edit_grievance">แก้ไขคำร้อง</string>
+	<string name="add_grievance">เพิ่มคำร้อง</string>
+	<string name="sync_grievance">ถ่ายโอนคำร้องไปยังเซิร์ฟเวอร์</string>
+	<string name="syncing_grievance_of">กำลังถ่ายโอนคำร้อง</string>
+	<string name="grievance_status">คำร้องประเภทใดที่คุณกำลังบันทึก?</string>
+	<string name="grievance_cannot_save">ไม่สามารถบันทึกคำร้องโดยปราศจากเลข ID คำร้องได้ ยกเลิกคำร้อง</string>
+
+	<!--Lessons Page -->
+	<string name="lessons_folder_error">พบปัญหาในการสร้างแฟ้มวิดีโอสาธิตการใช้งาน</string>
+	<string name="lessons_prompt">วิดีโอสาธิตการใช้งาน</string>
+	<string name="lessons_unzipping">แตกไฟล์วิดีโอสาธิตการใช้งาน</string>
+	<string name="lessons_thumbnails">สร้างรูปประกอบ..</string>
+	<string name="lessons_completed">เสร็จสมบูรณ์!</string>
+
+	<!--Reports Page -->
+	<string name="title_projects">ไฟล์มีเดีย</string>
+	<string name="projects_not_uploaded">ยังไม่อัปโหลด!</string>
+	<string name="projects_uploaded">อัปโหลดแล้ว!</string>
+	<string name="loading">กำลังโหลด..</string>
+	<string name="captured_at">ถูกบันทึกที่</string>
+
+	<!-- Audio Recorder -->
+	<string name="recording_stopped">หยุดการอัดเสียง</string>
+	<string name="storage_is_full">พื้นที่จัดเก็บเต็ม</string>
+	<string name="max_length_reached">ถึงกำหนดความยาวสูงสุด</string>
+	<string name="insert_sd_card">จำเป็นต้องใช้การ์ด SD</string>
+	<string name="button_ok">ตกลง</string>
+	<string name="error_sdcard_access">ไม่สามารถเข้าถึงพื้นที่จัดเก็บภายนอกหรือภายในได้</string>
+	<string name="error_app_internal">พบปัญหาภายในแอปพลิเคชัน</string>
+	<string name="error_mediadb_new_record">ไม่สามารถบันทึกเสียงได้</string>
+	<string name="delete_dialog_title">ลบการบันทึกเสียง?</string>
+	<string name="overwrite_dialog_title">%s มีอยู่แล้ว คุณต้องการเขียนทับหรือไม่?</string>
+	<string name="notification_recording">กำลังอัดเสียง..</string>
+	<string name="notification_stopped">หยุดการอัดเสียง</string>
+	<string name="notification_warning">พื้นที่จัดเก็บต่ำ (น้อยกว่า %d นาที)..</string>
+	<string name="description_field_grievance">คำบรรยาย &amp; การปฏิบัติที่คาดหวัง</string>
+
+
+	<string name="app_name">TIMBY</string>
+	<string name="app_name_facebook">Chat+</string>
+	<string name="app_name_youtube">Player Pro</string>
+	<string name="protocol">https://</string>
+	<string name="timer_format"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
+	<string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+	<string name="audio_db_artist_name">Your recordings</string>
+	<string name="audio_db_album_name">Audio recordings</string>
+	<string name="audio_db_playlist_name">My recordings</string>
+	<string name="prefDefault_recordType">audio/aac</string>
+</resources>

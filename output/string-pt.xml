@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">undefined
+	<string name="yes">Sim</string>
+	<string name="no">Não</string>
+
+	<!-- Permissions page -->
+	<string name="timby_permissions_title">Conceda autorização ao TIMBY</string>
+	<string name="timby_permissions_justification">O TIMBY precisa de autorização para aceder à câmara, áudio, GPS, armazenamento e telefone</string>
+
+	<!-- Login page -->
+	<string name="login__username">Nome de utilizador</string>
+	<string name="login__password">Palavra-passe</string>
+	<string name="login">Entrar</string>
+	<string name="provide_details">Precisa de inserir o nome de utilizador e a palavra-passe!</string>
+	<string name="provide_terms">Tem de concordar com os Termos e condições para continuar</string>
+	<string name="attempting_login">A tentar entrar…</string>
+	<string name="incorrect_details">Nome de utilizador e/ou palavra-passe incorrectos!</string>
+	<string name="details_not_set">Nome de utilizador e/ou palavra-passe não registado!</string>
+	<string name="incorrect_pswd">Palavra-passe incorrecta</string>
+	<string name="unexpected_server_error">Erro do servidor!</string>
+	<string name="downloading_data_login">A transferir dados da aplicação…</string>
+
+	<!-- API Configuration Page -->
+	<string name="cannot_proceed">Não pode continuar sem API URL</string>
+	<string name="provide_api_url">Por favor, forneça um API URL</string>
+	<string name="malformed_url">API URL mal formado/inválido</string>
+	<string name="api_configured">API URL configurado!</string>
+	<string name="invalid_api">API URL inválido!</string>
+
+	<!-- Settings Icon -->
+	<string name="overflow_settings">Definições</string>
+	<string name="overflow_logout">Sair</string>
+
+	<!--GPS Page -->
+	<string name="gps_settigs_off">GPS não activado</string>
+
+	<!-- Encryption -->
+	<string name="encryption_title">Encriptação de media</string>
+	<string name="encryption_failed">Falhou, vamos tentar de novo!</string>
+
+	<!-- Sync -->
+	<string name="save_unsaved_changes_alert">Guardar as alterações? (Sim/Não)</string>
+	<string name="sync">Sincronizar com o Servidor</string>
+	<string name="syncing_initializing">A inicializar…</string>
+	<string name="sync_storage">Armazenamento disponível: %1$s Espaço de armazenamento dos eventos: %2$s</string>
+	<string name="syncing_uploading">A carregar media</string>
+	<string name="syncing_of">de</string>
+	<string name="syncing_warning">Aviso!</string>
+	<string name="syncing_success">Sucesso</string>
+	<string name="syncing_fail">Sincronização falhada!</string>
+	<string name="syncing_ok">Sincronização concluída!</string>
+	<string name="syncing_report_of">Sincronizar evento</string>
+	<string name="syncing_started">Iniciado…</string>
+	<string name="token_expired">Token expirado!</string>
+	<string name="syncing_login_again">Aceda com internet e tente de novo!</string>
+	<string name="syncing_invalid_token">Não é possível sincronizar com um token inválido!</string>
+	<string name="syncing_running">A sincronização já está em execução!</string>
+	<string name="syncing_export_running">Sincronização/exportação em execução!</string>
+	<string name="nothing_selected_sync">Selecione relatórios / queixas para sincronizar!</string>
+
+	<!-- Zip -->
+	<string name="zip_initializing">A inicializar…</string>
+	<string name="export">Exportar para SD</string>
+	<string name="export_adding">A adicionar media</string>
+	<string name="export_ok">Exportado com sucesso</string>
+	<string name="attaching_xml">A anexar ficheiro XML dos eventos…</string>
+	<string name="export_count">Exportar evento %1$d de %2$d</string>
+	<string name="export_running">A exportação já está em execução!</string>
+	<string name="nothing_selected_export">Selecione relatórios / queixas para exportar!</string>
+
+	<!-- Home page -->
+	<string name="add">Adicionar evento</string>
+	<string name="add_grievance_on">Adicionar</string>
+	<string name="view">Ver eventos</string>
+	<string name="view_grievance_on">Ver</string>
+	<string name="help">Lições</string>
+	<string name="sync_label">Enviar para o painel de controlo</string>
+	<string name="initiate_downloading_lessons">Não foram encontradas lições. A transferir…</string>
+	<string name="internet_conection_needed">É necessário ligação à internet para transferir lições. Ligue o WiFi ou os dados móveis.</string>
+	<string name="no_internet_conection">Não tem acesso à internet!</string>
+	<string name="err_storage_not_ready">O armazenamento externo (cartão SD) parece não estar disponível para ler e guardar. O TIMBY precisa de ter acesso a isto para a lição e os dados do projecto da matéria. Por favor, verifique o seu dispositivo e reinicie a aplicação.</string>
+	<string name="enter_password">Insira a palavra-passe</string>
+
+	<!-- Settings page -->
+	<string name="timby_status">CONFIGURAÇÕES DO APP</string>
+	<string name="timby_dashboard">Painel TIMBY</string>
+	<string name="timby_icon">Ícone discreto TIMBY</string>
+	<string name="timby_icon_subtitle">Selecione um ícone de aplicativo preferido e um nome de aplicativo</string>
+	<string name="timby_icon_name_changer_title">Selecione o ícone do iniciador TIMBY e o nome do aplicativo desejados</string>
+	<string name="timby_network">Tipo de rede atual</string>
+	<string name="timby_video_length">Duração do vídeo TIMBY</string>
+	<string name="timby_video_length_subtitle">minutos</string>
+	<string name="timby_version">VERSÃO APP</string>
+	<string name="timby_version_label">Versão TIMBY</string>
+	<string name="timby_reset">REINICIAR APLICAÇÃO</string>
+	<string name="timby_reset_label">Redefinir o aplicativo TIMBY</string>
+	<string name="timby_reset_label_subtitle">Resolver problemas de sincronização / exportação / mapa</string>
+	<string name="api_url">API URL TIMBY</string>
+	<string name="set">Definir</string>
+	<string name="settings_saved">As definições foram guardadas!</string>
+	<string name="timby_analytics_title">Análise TIMBY</string>
+	<string name="opt_in_out">Enviar análise</string>
+	<string name="timby_analytics_subtitle">O Analytics nos ajuda a criar melhores recursos. Nós nunca coletamos suas informações pessoais</string>
+
+	<!-- Add Report Page -->
+	<string name="add_picture">Imagem</string>
+	<string name="add_video">Vídeo</string>
+	<string name="add_audio">Áudio</string>
+	<string name="view_gallery">Galeria</string>
+	<string name="enter_title">Inserir o título</string>
+	<string name="company_or_person_field">Empresa/Pessoa</string>
+	<string name="description_field">Conte-nos o que está a acontecer…</string>
+	<string name="location_not_set">Localização não definida</string>
+	<string name="done">Feito</string>
+	<string name="edit_report">Editar evento</string>
+	<string name="no_media_added">Ainda não foi adicionado conteúdo de media a este evento!</string>
+	<string name="location_is_not_set">Dificuldade em encontrar a localização. Tente mais tarde!</string>
+	<string name="updated_successfully">Atualizado com sucesso!</string>
+	<string name="caption_updated">Legenda actualizada com sucesso!</string>
+	<string name="select_sector">Seleccionar sector</string>
+	<string name="location_permission_rationale">É necessária permissão de localização para mostrar a localização do seu relatório</string>
+	<string name="image_video_permission_rationale">É necessária permissão da câmara para adicionar imagens ou vídeos ao seu relatório</string>
+	<string name="audio_permission_rationale">É necessária permissão de áudio para adicionar áudio ao seu relatório</string>
+
+	<!--Add  Caption -->
+	<string name="story_publish_describe_hint">Descreva a sua captura</string>
+	<string name="add__caption">Adicionar legenda</string>
+	<string name="add_caption">Adicionar legenda</string>
+	<string name="skip__caption">Saltar</string>
+
+	<!--Reports Page -->
+	<string name="report_title">Título</string>
+	<string name="report_status">Estado</string>
+	<string name="report_date">Data</string>
+	<string name="not_synced">Não sincronizado</string>
+	<string name="synced">Sincronizado</string>
+	<string name="not_exported">Não exportado</string>
+	<string name="exported">Exportado</string>
+	<string name="delete_report_confirmation">Tem a certeza que pretende eliminar este evento?</string>
+	<string name="cancel_">Cancelar</string>
+	<string name="ok">OK</string>
+
+	   <!--Map Page -->
+	<string name="map">Mapa</string>
+	<string name="layers">Camadas</string>
+	<string name="map_layers">Camadas do mapa</string>
+	<string name="map_vectors">Vetores do mapa</string>
+	<string name="initiate_downloading_offline_map">Nenhum mapa encontrado! A transferir...</string>
+	<string name="internet_conection_needed_map">É necessária uma ligação à Internet para transferir o mapa. Ligue o WiFi ou os dados móveis.</string>
+	<string name="downloading_maps_prompt">Transferir mapa offline</string>
+	<string name="currently_downloading_maps_prompt">A transferir o mapa offline</string>
+	<string name="close">fechar</string>
+
+	 <!--Grievances Page -->
+	<string name="add_grievance_title">Gostaria de adicionar um novo evento ou fazer uma denúncia?</string>
+	<string name="grievance">Denúncia</string>
+	<string name="date_of_grievance">Data de denúncia</string>
+	<string name="where_it_happened">Local da ocorrência</string>
+	<string name="grievance_date">Data de denúncia %1$s</string>
+	<string name="select_sector_grievance">Seleccionar o tipo de denúncia</string>
+	<string name="report">Evento</string>
+	<string name="select_urgency">Seleccionar a urgência</string>
+	<string name="edit_grievance">Editar denúncia</string>
+	<string name="add_grievance">Adicionar denúncia</string>
+	<string name="sync_grievance">Sincronizar denúncia com o servidor</string>
+	<string name="syncing_grievance_of">Sincronizar denúncia</string>
+	<string name="grievance_status">Que tipo de denúncia está a capturar?</string>
+	<string name="grievance_cannot_save">Não é possível guardar uma denúncia sem um ID válido. Descartar denúncia</string>
+
+	<!--Lessons Page -->
+	<string name="lessons_folder_error">Problema ao criar a pasta das lições</string>
+	<string name="lessons_prompt">Lições</string>
+	<string name="lessons_unzipping">A descomprimir lições…</string>
+	<string name="lessons_thumbnails">A gerar miniaturas…</string>
+	<string name="lessons_completed">Concluído!</string>
+
+	<!--Reports Page -->
+	<string name="title_projects">Ficheiros de media</string>
+	<string name="projects_not_uploaded">Não carregado!</string>
+	<string name="projects_uploaded">Carregado!</string>
+	<string name="loading">A carregar…</string>
+	<string name="captured_at">Capturado em</string>
+
+	<!-- Audio Recorder -->
+	<string name="recording_stopped">A gravação parou</string>
+	<string name="storage_is_full">Espaço de armazenamento cheio</string>
+	<string name="max_length_reached">Atingiu a duração máxima</string>
+	<string name="insert_sd_card">É necessário o cartão SD</string>
+	<string name="button_ok">OK</string>
+	<string name="error_sdcard_access">Incapaz de aceder ao armazenamento externo ou interno</string>
+	<string name="error_app_internal">Erro interno da aplicação</string>
+	<string name="error_mediadb_new_record">Incapaz de guardar o áudio gravado</string>
+	<string name="delete_dialog_title">Apagar a gravação de áudio?</string>
+	<string name="overwrite_dialog_title">%s já existe. Deseja substituir?</string>
+	<string name="notification_recording">A gravar…</string>
+	<string name="notification_stopped">Gravação parada</string>
+	<string name="notification_warning">Pouco espaço de armazenamento (menos de %d minutos)..</string>
+	<string name="description_field_grievance">Declaração &amp; Acção esperada</string>
+
+
+	<string name="app_name">TIMBY</string>
+	<string name="app_name_facebook">Chat+</string>
+	<string name="app_name_youtube">Player Pro</string>
+	<string name="protocol">https://</string>
+	<string name="timer_format"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
+	<string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+	<string name="audio_db_artist_name">Your recordings</string>
+	<string name="audio_db_album_name">Audio recordings</string>
+	<string name="audio_db_playlist_name">My recordings</string>
+	<string name="prefDefault_recordType">audio/aac</string>
+</resources>

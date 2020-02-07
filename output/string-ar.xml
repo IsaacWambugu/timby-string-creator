@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">undefined
+	<string name="yes">نعم</string>
+	<string name="no">كلا</string>
+
+	<!-- Permissions page -->
+	<string name="timby_permissions_title">منحه TIMBY أذن</string>
+	<string name="timby_permissions_justification">TIMBY يحتاج كاميرا والصوت، GPS، التخزين، واعدادات الهاتف</string>
+
+	<!-- Login page -->
+	<string name="login__username">اسم المستخدم</string>
+	<string name="login__password">كلمة السر</string>
+	<string name="login">الدخول</string>
+	<string name="provide_details">توفرتحتاج إلى توفير اسم المستخدم و كلمة السر</string>
+	<string name="provide_terms">يجب الموافقة على البنود والشروط للمتابعة</string>
+	<string name="attempting_login">جار محاولة تسجيل الدخول</string>
+	<string name="incorrect_details">اسم المستخدم وكلمه السر غير صحيحه</string>
+	<string name="details_not_set">اسم المستخدم وكلمه السر غير مضبوط</string>
+	<string name="incorrect_pswd">الرقم السري غير فعال</string>
+	<string name="unexpected_server_error">خطأ غير متوقع في الخادم</string>
+	<string name="downloading_data_login">تنزيل بيانات التطبيق</string>
+
+	<!-- API Configuration Page -->
+	<string name="cannot_proceed">API URLلايمكن المعالجة بدون</string>
+	<string name="provide_api_url">لطفا زود API URL</string>
+	<string name="malformed_url">غير صحيح /غير صالحه API URL</string>
+	<string name="api_configured">API URLتكوين</string>
+	<string name="invalid_api">غير فعال API URL</string>
+
+	<!-- Settings Icon -->
+	<string name="overflow_settings">إعدادات</string>
+	<string name="overflow_logout">خروج</string>
+
+	<!--GPS Page -->
+	<string name="gps_settigs_off">GPS غير مفعل</string>
+
+	<!-- Encryption -->
+	<string name="encryption_title">تشفير الوسائط</string>
+	<string name="encryption_failed">فشل ، ستتم أعاده المحاوله</string>
+
+	<!-- Sync -->
+	<string name="save_unsaved_changes_alert">حفظ التغييرات الخاصة بك؟ (نعم لا)</string>
+	<string name="sync">المزامنة إلى الخادم</string>
+	<string name="syncing_initializing">جار تهيئه...</string>
+	<string name="sync_storage">السعة التخزينية المتاحة:٪1$s حجم تقارير التخزين:٪2$s</string>
+	<string name="syncing_uploading">تحميل الوسائط</string>
+	<string name="syncing_of">من</string>
+	<string name="syncing_warning">تحذير !</string>
+	<string name="syncing_success">نجاح</string>
+	<string name="syncing_fail">لم تكن المزامنة ناجحة!</string>
+	<string name="syncing_ok">المزامنه كانت ناجحه</string>
+	<string name="syncing_report_of">مزامنة التقرير</string>
+	<string name="syncing_started">بدأت</string>
+	<string name="token_expired">انتهت صلاحيه الرمز المميز</string>
+	<string name="syncing_login_again">تسجيل الدخول مع الانترنت وحاول مره اخرى</string>
+	<string name="syncing_invalid_token">لايمكن مزامنه مع رمز غير صالح</string>
+	<string name="syncing_running">المزامنة تسير بالفعل!</string>
+	<string name="syncing_export_running">المزامنة / التصدير قيد التشغيل بالفعل!</string>
+	<string name="nothing_selected_sync">حدد التقارير / المظالم للمزامنة!</string>
+
+	<!-- Zip -->
+	<string name="zip_initializing">جار تهيئه...</string>
+	<string name="export">SDتصدير الى</string>
+	<string name="export_adding">إضافة وسائل الإعلام</string>
+	<string name="export_ok">تم تصديرها بنجاح</string>
+	<string name="attaching_xml">إرفاق تقارير ملف XML</string>
+	<string name="export_count">تصدير التقرير٪1$d من٪2$d</string>
+	<string name="export_running">التصدير قيد التشغيل بالفعل!</string>
+	<string name="nothing_selected_export">حدد التقارير / المظالم للتصدير!</string>
+
+	<!-- Home page -->
+	<string name="add">إضافة تقرير</string>
+	<string name="add_grievance_on">إضافة</string>
+	<string name="view">عرض التقارير</string>
+	<string name="view_grievance_on">رأي</string>
+	<string name="help">دروس</string>
+	<string name="sync_label">تحميل إلى لوحة المعلومات</string>
+	<string name="initiate_downloading_lessons">لايوجد دروس .تحميل دروس</string>
+	<string name="internet_conection_needed">هناك حاجة إلى اتصال بالإنترنت لتحميل الدروس. تشغيل WIFI أو بيانات الجوال ..</string>
+	<string name="no_internet_conection">لايوجد اتصال مع الانترنت</string>
+	<string name="err_storage_not_ready">لا يبدو أن وحدة التخزين الخارجية (SDCard) متاحة للقراءة والكتابة في الوقت الحالي. TIMBY يتطلب الوصول إلى هذا للدرس وبيانات مشروع القصة. يرجى التحقق من جهازك وإعادة تشغيل App</string>
+	<string name="enter_password">ادخل الرمز السري</string>
+
+	<!-- Settings page -->
+	<string name="timby_status">تكوينات التطبيق</string>
+	<string name="timby_dashboard">TIMBY لوحة القيادة</string>
+	<string name="timby_icon">تيمي أيقونة سرية</string>
+	<string name="timby_icon_subtitle">حدد رمز التطبيق المفضل واسم التطبيق</string>
+	<string name="timby_icon_name_changer_title">حدد أيقونة المشغل TIMBY واسم التطبيق</string>
+	<string name="timby_network">نوع الشبكة الحالية</string>
+	<string name="timby_video_length">TIMBY طول الفيديو</string>
+	<string name="timby_video_length_subtitle">الدقائق</string>
+	<string name="timby_version">نسخة التطبيق</string>
+	<string name="timby_version_label">نسخة TIMBY</string>
+	<string name="timby_reset">إعادة تعيين التطبيق</string>
+	<string name="timby_reset_label">إعادة تعيين التطبيق TIMBY</string>
+	<string name="timby_reset_label_subtitle">حل مشكلات المزامنة / التصدير / الخريطة</string>
+	<string name="api_url">API URL TIMBY</string>
+	<string name="set">وضع</string>
+	<string name="settings_saved">تم حفظ الإعدادات!</string>
+	<string name="timby_analytics_title">تحليلات TIMBY</string>
+	<string name="opt_in_out">إرسال تحليلات</string>
+	<string name="timby_analytics_subtitle">يساعدنا Analytics في بناء ميزات أفضل. نحن لا نجمع معلوماتك الشخصية أبدًا</string>
+
+	<!-- Add Report Page -->
+	<string name="add_picture">صورة</string>
+	<string name="add_video">فيديو</string>
+	<string name="add_audio">صوت</string>
+	<string name="view_gallery">صالة عرض</string>
+	<string name="enter_title">وضع عنوان</string>
+	<string name="company_or_person_field">إضافة شركة / شخص</string>
+	<string name="description_field">أخبرنا بما يحدث ..</string>
+	<string name="location_not_set">لم يتم تعين الموقع</string>
+	<string name="done">فعله</string>
+	<string name="edit_report">أضافه</string>
+	<string name="no_media_added">لم تتم إضافة أي وسائط إلى هذا التقرير بعد!</string>
+	<string name="location_is_not_set">صعوبه العثور على الموقع .حاول مره اخرى!</string>
+	<string name="updated_successfully">تحديث بنجاح!</string>
+	<string name="caption_updated">تم التقاطها في ________ تحديث بنجاح!</string>
+	<string name="select_sector">حدد القطاع</string>
+	<string name="location_permission_rationale">مطلوب إذن الموقع لإظهار موقع تقريرك</string>
+	<string name="image_video_permission_rationale">مطلوب إذن الكاميرا لإضافة الصور أو الفيديو إلى تقريرك</string>
+	<string name="audio_permission_rationale">مطلوب إذن الصوت لإضافة الصوت إلى تقريرك</string>
+
+	<!--Add  Caption -->
+	<string name="story_publish_describe_hint">صف التقاط</string>
+	<string name="add__caption">اسم المستخدم غير فعال</string>
+	<string name="add_caption">اسم المستخدم غير فعال</string>
+	<string name="skip__caption">تخطى</string>
+
+	<!--Reports Page -->
+	<string name="report_title">عنوان</string>
+	<string name="report_status">الحالة</string>
+	<string name="report_date">تاريخ</string>
+	<string name="not_synced">لم تتم مزامنته</string>
+	<string name="synced">تمت مزامنته</string>
+	<string name="not_exported">لم يتم تصديرها</string>
+	<string name="exported">تصدير</string>
+	<string name="delete_report_confirmation">هل انته متاكد من حذف هذا التقرير؟</string>
+	<string name="cancel_">الغاء</string>
+	<string name="ok">OK</string>
+
+	   <!--Map Page -->
+	<string name="map">خريطة</string>
+	<string name="layers">طبقات</string>
+	<string name="map_layers">طبقات الخريطة</string>
+	<string name="map_vectors">متجهات الخريطة</string>
+	<string name="initiate_downloading_offline_map">لم يتم العثور على خريطة! جارى التحميل..</string>
+	<string name="internet_conection_needed_map">هناك حاجة إلى اتصال بالإنترنت لتحميل الخريطة. قم بتشغيل WIFI أو بيانات الجوال.</string>
+	<string name="downloading_maps_prompt">تحميل خريطة حاليا</string>
+	<string name="currently_downloading_maps_prompt">حاليا تحميل خريطة حاليا</string>
+	<string name="close">أغلق</string>
+
+	 <!--Grievances Page -->
+	<string name="add_grievance_title">هل ترغب في إضافة تقرير جديد أو شكوى؟</string>
+	<string name="grievance">شكوى</string>
+	<string name="date_of_grievance">تاريخ حدوث التظلم</string>
+	<string name="where_it_happened">الموقع الذي حدث فيه التظلم</string>
+	<string name="grievance_date">تاريخ التظلم٪1$s</string>
+	<string name="select_sector_grievance">نوع التظلم</string>
+	<string name="report">أبلغ عن</string>
+	<string name="select_urgency">اختيار الاستعجال</string>
+	<string name="edit_grievance">تحرير التظلم</string>
+	<string name="add_grievance">أضف شكوى</string>
+	<string name="sync_grievance">مزامنة التظلم إلى الخادم</string>
+	<string name="syncing_grievance_of">مزامنة التظلمات</string>
+	<string name="grievance_status">ما نوع التظلم الذي تلتقطه؟</string>
+	<string name="grievance_cannot_save">لا يمكن حفظ التظلم بدون معرف التظلم صالح. تجاهل التظلم</string>
+
+	<!--Lessons Page -->
+	<string name="lessons_folder_error">مشكلة في إنشاء مجلد الدروس</string>
+	<string name="lessons_prompt">دروس</string>
+	<string name="lessons_unzipping">فك الدرس ..</string>
+	<string name="lessons_thumbnails">توليد الصور المصغرة ..</string>
+	<string name="lessons_completed">منجز</string>
+
+	<!--Reports Page -->
+	<string name="title_projects">ملفات الوسائط</string>
+	<string name="projects_not_uploaded">لم يتم التحميل</string>
+	<string name="projects_uploaded">تم تحميلها!</string>
+	<string name="loading">تحميل</string>
+	<string name="captured_at">تم التقاطها في _______</string>
+
+	<!-- Audio Recorder -->
+	<string name="recording_stopped">توقف التسجيل</string>
+	<string name="storage_is_full">الذاكرة ممتلئه</string>
+	<string name="max_length_reached">بلغ الحد الأقصى للطول</string>
+	<string name="insert_sd_card">مطلوب بطاقه SD</string>
+	<string name="button_ok">OK</string>
+	<string name="error_sdcard_access">غير قادر الى الوصول الى التخزين الخارجي او الداخلي</string>
+	<string name="error_app_internal">خطأ في التطبيق الداخلي</string>
+	<string name="error_mediadb_new_record">غير قادر ع حفظ تسجيل الصوت</string>
+	<string name="delete_dialog_title">حذف التسجيل الصوتي الخاص بك؟</string>
+	<string name="overwrite_dialog_title">٪s موجود بالفعل. هل تريد الكتابة عليه؟</string>
+	<string name="notification_recording">تسجيل</string>
+	<string name="notification_stopped">يتم إيقاف التسجيل</string>
+	<string name="notification_warning">%تخزين منخفض (أقل من d% دقيقة)</string>
+	<string name="description_field_grievance">بيان ...؛ العمل المتوقع</string>
+
+
+	<string name="app_name">TIMBY</string>
+	<string name="app_name_facebook">Chat+</string>
+	<string name="app_name_youtube">Player Pro</string>
+	<string name="protocol">https://</string>
+	<string name="timer_format"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
+	<string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+	<string name="audio_db_artist_name">Your recordings</string>
+	<string name="audio_db_album_name">Audio recordings</string>
+	<string name="audio_db_playlist_name">My recordings</string>
+	<string name="prefDefault_recordType">audio/aac</string>
+</resources>

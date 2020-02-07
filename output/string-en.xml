@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">undefined
+	<string name="yes">YES</string>
+	<string name="no">NO</string>
+
+	<!-- Permissions page -->
+	<string name="timby_permissions_title">Grant TIMBY Permissions</string>
+	<string name="timby_permissions_justification">TIMBY needs camera,audio,GPS, storage and  phone permissions</string>
+
+	<!-- Login page -->
+	<string name="login__username">username
+</string>
+	<string name="login__password">password</string>
+	<string name="login">Login</string>
+	<string name="provide_details">You need to provide both username and password!</string>
+	<string name="provide_terms">You must agree to the terms and conditions to continue</string>
+	<string name="attempting_login">Attempting login..</string>
+	<string name="incorrect_details">Incorrect username and/or password!</string>
+	<string name="details_not_set">Username and/or password not set!</string>
+	<string name="incorrect_pswd">Incorrect password</string>
+	<string name="unexpected_server_error">Unexpected server error!</string>
+	<string name="downloading_data_login">Downloading application data..</string>
+
+	<!-- API Configuration Page -->
+	<string name="cannot_proceed">Cannot proceed without API URL</string>
+	<string name="provide_api_url">Kindly provide an API URL</string>
+	<string name="malformed_url">Malformed/Invalid API URL</string>
+	<string name="api_configured">API URL configured!</string>
+	<string name="invalid_api">Invalid API URL!
+</string>
+
+	<!-- Settings Icon -->
+	<string name="overflow_settings">Settings</string>
+	<string name="overflow_logout">Logout</string>
+
+	<!--GPS Page -->
+	<string name="gps_settigs_off">GPS not activated</string>
+
+	<!-- Encryption -->
+	<string name="encryption_title">Media Encryption</string>
+	<string name="encryption_failed">Failed, will retry!</string>
+
+	<!-- Sync -->
+	<string name="save_unsaved_changes_alert">Save your changes?  </string>
+	<string name="sync">Sync to Server</string>
+	<string name="syncing_initializing">Initializing..</string>
+	<string name="sync_storage">Insufficiient storage: %1$s Reports storage size: %2$s</string>
+	<string name="syncing_uploading">Uploading media </string>
+	<string name="syncing_of">of</string>
+	<string name="syncing_warning">Warning!</string>
+	<string name="syncing_success">Success</string>
+	<string name="syncing_fail">Sync was not successful!</string>
+	<string name="syncing_ok">Sync was successful!</string>
+	<string name="syncing_report_of">Syncing Report</string>
+	<string name="syncing_started">Started..</string>
+	<string name="token_expired">Token expired!</string>
+	<string name="syncing_login_again">Log in with internet and try again!</string>
+	<string name="syncing_invalid_token">Cannot sync with invalid token!</string>
+	<string name="syncing_running">Sync is already running!</string>
+	<string name="syncing_export_running">Sync/Export is already running!</string>
+	<string name="nothing_selected_sync">Select reports/grievances to sync!</string>
+
+	<!-- Zip -->
+	<string name="zip_initializing">Initializing..</string>
+	<string name="export">Export to SD</string>
+	<string name="export_adding">Adding media</string>
+	<string name="export_ok">Exported successfully</string>
+	<string name="attaching_xml">Attaching reports XML file..</string>
+	<string name="export_count">Exporting Report %1$d of %2$d</string>
+	<string name="export_running">Export is already running!</string>
+	<string name="nothing_selected_export">Select reports/grievances to export!</string>
+
+	<!-- Home page -->
+	<string name="add">Add Report</string>
+	<string name="add_grievance_on">Add</string>
+	<string name="view">View Reports</string>
+	<string name="view_grievance_on">View </string>
+	<string name="help">Lessons</string>
+	<string name="sync_label">Upload to Dashboard</string>
+	<string name="initiate_downloading_lessons">No lessons found! Downloading..</string>
+	<string name="internet_conection_needed">An Internet connection is needed to download lessons. Switch on WIFI or Mobile Data..</string>
+	<string name="no_internet_conection">You have no Internet connection!</string>
+	<string name="err_storage_not_ready">The external storage (SDCard) does not appear to be available for reading and writing at this time. TIMBY requires access to this for lesson and story project data.Please check your device and restart the App.</string>
+	<string name="enter_password">Enter password</string>
+
+	<!-- Settings page -->
+	<string name="timby_status">APP CONFIGURATIONS</string>
+	<string name="timby_dashboard">TIMBY Dashboard</string>
+	<string name="timby_icon">TIMBY Discreet Icon</string>
+	<string name="timby_icon_subtitle">Select a preferred app icon and app name</string>
+	<string name="timby_icon_name_changer_title">Select your desired TIMBY launcher icon and app name</string>
+	<string name="timby_network">Current Network Type</string>
+	<string name="timby_video_length">TIMBY Video Length</string>
+	<string name="timby_video_length_subtitle">%1$d minutes</string>
+	<string name="timby_version">APP VERSION</string>
+	<string name="timby_version_label">TIMBY Version</string>
+	<string name="timby_reset">RESET APPLICATION</string>
+	<string name="timby_reset_label">Reset TIMBY App</string>
+	<string name="timby_reset_label_subtitle">Resolve Sync/Export/Map issues</string>
+	<string name="api_url">TIMBY API URL</string>
+	<string name="set">Set</string>
+	<string name="settings_saved">Settings have been saved!</string>
+	<string name="timby_analytics_title">TIMBY Analytics</string>
+	<string name="opt_in_out">Send Analytics</string>
+	<string name="timby_analytics_subtitle">Analytics helps us build better features. We never collect your personal information</string>
+
+	<!-- Add Report Page -->
+	<string name="add_picture">Image</string>
+	<string name="add_video">Video</string>
+	<string name="add_audio">Audio</string>
+	<string name="view_gallery">Gallery</string>
+	<string name="enter_title">Enter Title</string>
+	<string name="company_or_person_field">Company/Person</string>
+	<string name="description_field">Tell us what is happening</string>
+	<string name="location_not_set">Location not set</string>
+	<string name="done">Done</string>
+	<string name="edit_report">Edit Report</string>
+	<string name="no_media_added">No media added on this report yet!</string>
+	<string name="location_is_not_set">Trouble finding location. Try again later!</string>
+	<string name="updated_successfully">updated successfully!</string>
+	<string name="caption_updated">Caption updated Successfully !</string>
+	<string name="select_sector">Select Sector</string>
+	<string name="location_permission_rationale">Location permission is required to show the location of your report</string>
+	<string name="image_video_permission_rationale">Camera permission is required to add images or video to your report</string>
+	<string name="audio_permission_rationale">Audio permission is required to add audio to your report</string>
+
+	<!--Add  Caption -->
+	<string name="story_publish_describe_hint">Describe your capture..</string>
+	<string name="add__caption">Add Caption</string>
+	<string name="add_caption">Add Caption</string>
+	<string name="skip__caption">Skip</string>
+
+	<!--Reports Page -->
+	<string name="report_title">Title</string>
+	<string name="report_status">Status</string>
+	<string name="report_date">Date</string>
+	<string name="not_synced">Not synced</string>
+	<string name="synced">Synced</string>
+	<string name="not_exported">Not exported</string>
+	<string name="exported">Exported</string>
+	<string name="delete_report_confirmation">Are you sure you want to delete report?</string>
+	<string name="cancel_">Cancel</string>
+	<string name="ok">OK</string>
+
+	   <!--Map Page -->
+	<string name="map">Map</string>
+	<string name="layers">Layers</string>
+	<string name="map_layers">Map Layers</string>
+	<string name="map_vectors">Map vectors</string>
+	<string name="initiate_downloading_offline_map">No map found! Downloading..</string>
+	<string name="internet_conection_needed_map">An Internet connection is needed to download map. Switch on WIFI or Mobile Data.</string>
+	<string name="downloading_maps_prompt">Downloading Offline Map</string>
+	<string name="currently_downloading_maps_prompt">Currently downloading offline Map</string>
+	<string name="close">close</string>
+
+	 <!--Grievances Page -->
+	<string name="add_grievance_title">Would you like to add a new report or file a grievance ?</string>
+	<string name="grievance">Grievance</string>
+	<string name="date_of_grievance">Date of Grievance</string>
+	<string name="where_it_happened">Location where it happened</string>
+	<string name="grievance_date">Grievance Date %1$s</string>
+	<string name="select_sector_grievance">Select Type of Grievance</string>
+	<string name="report">Report</string>
+	<string name="select_urgency">Select Urgency</string>
+	<string name="edit_grievance">Edit Grievance</string>
+	<string name="add_grievance">Add Grievance</string>
+	<string name="sync_grievance">Sync Grievance to Server</string>
+	<string name="syncing_grievance_of">Syncing Grievance</string>
+	<string name="grievance_status">What type of Grievance are you capturing?</string>
+	<string name="grievance_cannot_save">Cannot save grievance without a valid grievance ID. Discard grievance
+</string>
+
+	<!--Lessons Page -->
+	<string name="lessons_folder_error">Problem creating lessons folder</string>
+	<string name="lessons_prompt">Lessons</string>
+	<string name="lessons_unzipping">Unzipping Lessons..</string>
+	<string name="lessons_thumbnails">Generating thumbnails..</string>
+	<string name="lessons_completed">Complete!</string>
+
+	<!--Reports Page -->
+	<string name="title_projects">Media Files</string>
+	<string name="projects_not_uploaded">Not uploaded!</string>
+	<string name="projects_uploaded">Uploaded!</string>
+	<string name="loading">Loading..</string>
+	<string name="captured_at">Captured at</string>
+
+	<!-- Audio Recorder -->
+	<string name="recording_stopped">Recording stopped</string>
+	<string name="storage_is_full">Storage is full</string>
+	<string name="max_length_reached">Maximum length reached</string>
+	<string name="insert_sd_card">SD card is required</string>
+	<string name="button_ok">OK</string>
+	<string name="error_sdcard_access">Unable to access external or internal storage</string>
+	<string name="error_app_internal">Internal application error</string>
+	<string name="error_mediadb_new_record">Unable to save recorded audio</string>
+	<string name="delete_dialog_title">Delete your audio recording?</string>
+	<string name="overwrite_dialog_title">%s has already existed. Do you want to overwrite it?</string>
+	<string name="notification_recording">Recording..</string>
+	<string name="notification_stopped">Recording is stopped</string>
+	<string name="notification_warning">Low storage(less than %d minutes)..</string>
+	<string name="description_field_grievance">Statement &amp; Expected Action</string>
+
+
+	<string name="app_name">TIMBY</string>
+	<string name="app_name_facebook">Chat+</string>
+	<string name="app_name_youtube">Player Pro</string>
+	<string name="protocol">https://</string>
+	<string name="timer_format"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
+	<string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+	<string name="audio_db_artist_name">Your recordings</string>
+	<string name="audio_db_album_name">Audio recordings</string>
+	<string name="audio_db_playlist_name">My recordings</string>
+	<string name="prefDefault_recordType">audio/aac</string>
+</resources>

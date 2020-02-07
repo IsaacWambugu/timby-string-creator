@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">undefined
+	<string name="yes">NDIO</string>
+	<string name="no">LA</string>
+
+	<!-- Permissions page -->
+	<string name="timby_permissions_title">Kubalia TIMBY</string>
+	<string name="timby_permissions_justification">TIMBY inahitaji kibali kufikia Kamera, Sauti, GPS, Hifadhi, na Simu</string>
+
+	<!-- Login page -->
+	<string name="login__username">Jina la mtumiaji</string>
+	<string name="login__password">Nenosiri</string>
+	<string name="login">Kuingia</string>
+	<string name="provide_details">Unahitaji kutoa jina la mtumiaji na nenosiri!</string>
+	<string name="provide_terms">Ili kuendelea, lazima ukubaliane na sheria na masharti</string>
+	<string name="attempting_login">Kujaribu kuingia..</string>
+	<string name="incorrect_details">Kusawazishwa kwa nenosiri si sahihi!</string>
+	<string name="details_not_set">Jinalamtumiaji na/au nenosiri halijapangwa</string>
+	<string name="incorrect_pswd">Nenosiri sio sahih</string>
+	<string name="unexpected_server_error">Kosa la seva lisilotarajiwa!</string>
+	<string name="downloading_data_login">Inapakua data ..</string>
+
+	<!-- API Configuration Page -->
+	<string name="cannot_proceed">Haiwezi kuendelea bila kiungo cha API</string>
+	<string name="provide_api_url">Tafadhali peana kiungo cha API</string>
+	<string name="malformed_url">Kiungo cha API ni halali/batili</string>
+	<string name="api_configured">Kiungo cha API kimesanidiwa</string>
+	<string name="invalid_api">Kiungo cha API ni halali/batili</string>
+
+	<!-- Settings Icon -->
+	<string name="overflow_settings">Mipangilio</string>
+	<string name="overflow_logout">Kuondoka</string>
+
+	<!--GPS Page -->
+	<string name="gps_settigs_off">GPS haijaanzishwa</string>
+
+	<!-- Encryption -->
+	<string name="encryption_title">Mfungosiri wa Picha/Sauti/Video</string>
+	<string name="encryption_failed">Imeshindwa, itajaribu tena!</string>
+
+	<!-- Sync -->
+	<string name="save_unsaved_changes_alert">Hifadhi mabadiliko yako?</string>
+	<string name="sync">Sawazisha na Seva</string>
+	<string name="syncing_initializing">Inaanzisha…</string>
+	<string name="sync_storage">Hifadhi inayopatikana: %1$s Hifadhi ya reporti inayopatikana: %2$s</string>
+	<string name="syncing_uploading">Inapakia picha/sauti/video</string>
+	<string name="syncing_of">ya</string>
+	<string name="syncing_warning">Onyo!</string>
+	<string name="syncing_success">Kufaulu</string>
+	<string name="syncing_fail">Kusawazisha  hakujafaulu</string>
+	<string name="syncing_ok">Kusawazisha kumefaulu!</string>
+	<string name="syncing_report_of">Inasawazisha ripoti</string>
+	<string name="syncing_started">Imeanza</string>
+	<string name="token_expired">Tokeni imeisha!</string>
+	<string name="syncing_login_again">Ingia kutumia mtandao kisha jaribu tena!</string>
+	<string name="syncing_invalid_token">Haiwezi kusawazisha na tokeni isiyo halali!</string>
+	<string name="syncing_running">Kusawazisha kunaendelea!</string>
+	<string name="syncing_export_running">Sambamba / Export tayari inaendelea!</string>
+	<string name="nothing_selected_sync">Chagua ripoti / malalamiko ya kusawazisha!</string>
+
+	<!-- Zip -->
+	<string name="zip_initializing">Inaanzisha…</string>
+	<string name="export">Tuma kwa kadi sakima</string>
+	<string name="export_adding">Kuongeza picha/sauti/video</string>
+	<string name="export_ok">Kutuma kumefaulu!</string>
+	<string name="attaching_xml">Inaambatisha ripoti za faili za XML</string>
+	<string name="export_count">Ripoti ya Kuagiza %1$d ya %2$d</string>
+	<string name="export_running">kutuma kwa kadi sakima tayari kunaendelea!</string>
+	<string name="nothing_selected_export">Chagua ripoti / malalamiko ya kutuma kwa kadi sakima</string>
+
+	<!-- Home page -->
+	<string name="add">Ongeza Ripoti</string>
+	<string name="add_grievance_on">Ongeza </string>
+	<string name="view">Tazama Ripoti</string>
+	<string name="view_grievance_on">Tazama</string>
+	<string name="help">Masomo</string>
+	<string name="sync_label">Pakia kwa Dashibodi</string>
+	<string name="initiate_downloading_lessons">Hakuna mafunzo yaliyopatikana. Inapakua mafunzo..</string>
+	<string name="internet_conection_needed">Muunganiko wa mtandao unahitajika ili kupakua mafunzo. Fungulia datahuru au datarununu.</string>
+	<string name="no_internet_conection">Hauna muunganiko wa mtandao!</string>
+	<string name="err_storage_not_ready">Hifadhi ya nje (KadiSakima) yaelekea hakupatikani kusoma wala kuandika kwa sasa. TIMBY inahitaji kuifikia kwa fundisho hili na taarifa za mradi. Tafadhali angalia simu yako na uanzishe tena hiyo Apu.</string>
+	<string name="enter_password">Ingiza nenosiri</string>
+
+	<!-- Settings page -->
+	<string name="timby_status">HALI YA APU</string>
+	<string name="timby_dashboard">Dashibodi ya TIMBY</string>
+	<string name="timby_icon">Picha ya Tukufu</string>
+	<string name="timby_icon_subtitle">Chagua picha ya apu inayopendelewa na jina la apu</string>
+	<string name="timby_icon_name_changer_title">Chagua picha ya kuzindua apu ya TIMBY inayotaka na jina la apu</string>
+	<string name="timby_network">Aina ya Mtandao unayotumia</string>
+	<string name="timby_video_length">
+Urefu wa Video</string>
+	<string name="timby_video_length_subtitle">dakika</string>
+	<string name="timby_version">TOLEO LA APU</string>
+	<string name="timby_version_label">Toleo la TIMBY</string>
+	<string name="timby_reset">weka apu upya</string>
+	<string name="timby_reset_label">weka apu ya TIMBY upya</string>
+	<string name="timby_reset_label_subtitle">Suluhisha Usawazishaji / 
+mchakato wa kutuma kwa kadi sakima</string>
+	<string name="api_url">Kiungo cha API cha TIMBY</string>
+	<string name="set">Weka</string>
+	<string name="settings_saved">Mipangilio ya simu yako imehifathiwa</string>
+	<string name="timby_analytics_title">Uchambuzi wa Timby</string>
+	<string name="opt_in_out">Tuma uchambuzi</string>
+	<string name="timby_analytics_subtitle">
+Uchambuzi hutusaidia kujenga huduma bora. Kamwe hatuchambui habari yako ya kibinafsi</string>
+
+	<!-- Add Report Page -->
+	<string name="add_picture">Picha</string>
+	<string name="add_video">Video</string>
+	<string name="add_audio">Sauti</string>
+	<string name="view_gallery">Hifadhi</string>
+	<string name="enter_title">Ingiza Anwani</string>
+	<string name="company_or_person_field">Kampuni/Mtu</string>
+	<string name="description_field">Tuelezee kinachoendelea</string>
+	<string name="location_not_set">Eneo halijawekwa</string>
+	<string name="done">Maliza</string>
+	<string name="edit_report">Hariri ripoti</string>
+	<string name="no_media_added">Hakuna picha/sauti/video zilizoongezwa katika ripoti!</string>
+	<string name="location_is_not_set">Kuna tatizo kupata eneo. Jaribu tena!</string>
+	<string name="updated_successfully">Kuimarisha kumefaulu!</string>
+	<string name="caption_updated">Kuimarisha dondoo kumefaulu !</string>
+	<string name="select_sector">Chagua Sekta</string>
+	<string name="location_permission_rationale">Ruhusa ya mahali inahitajika ili kuonyesha eneo la ripoti yako</string>
+	<string name="image_video_permission_rationale">Ruhusa ya kamera inahitajika ili kuongeza picha au video kwenye ripoti yako</string>
+	<string name="audio_permission_rationale">Ruhusa ya sauti inahitajika ili kuongeza sauti kwenye ripoti yako</string>
+
+	<!--Add  Caption -->
+	<string name="story_publish_describe_hint">Elezea ulichonasa</string>
+	<string name="add__caption">Ongeza Dondoo</string>
+	<string name="add_caption">Ongeza Dondoo</string>
+	<string name="skip__caption">Ruka</string>
+
+	<!--Reports Page -->
+	<string name="report_title">Kichwa</string>
+	<string name="report_status">Hali</string>
+	<string name="report_date">Tarehe</string>
+	<string name="not_synced">Hazijasawazishwa</string>
+	<string name="synced">Zimesawazishwa</string>
+	<string name="not_exported">Hazijatumwa</string>
+	<string name="exported">Kutuma kumefaulu!</string>
+	<string name="delete_report_confirmation">Una hakika ungetaka kufuta hii ripoti ?</string>
+	<string name="cancel_">Sitisha</string>
+	<string name="ok">OK</string>
+
+	   <!--Map Page -->
+	<string name="map">Ramani</string>
+	<string name="layers">Vipande</string>
+	<string name="map_layers">Vipande vya Ramani</string>
+	<string name="map_vectors">Vecta za ramani</string>
+	<string name="initiate_downloading_offline_map">Hakuna ramani iliyopatikana! Inapakua ..</string>
+	<string name="internet_conection_needed_map">Uunganisho wa intaneti unahitaji kupakua ramani. Badilisha kwenye WIFI au Data ya Mkono.</string>
+	<string name="downloading_maps_prompt">Inapakua Ramani ya Nje</string>
+	<string name="currently_downloading_maps_prompt">Ramani ya nje ya mtandao inapakuliwa sasa hivi</string>
+	<string name="close">funga</string>
+
+	 <!--Grievances Page -->
+	<string name="add_grievance_title">Je, ungependa kuongeza ripoti mpya au malalamiko?</string>
+	<string name="grievance">Malalamiko</string>
+	<string name="date_of_grievance">Tarehe ya malalamiko</string>
+	<string name="where_it_happened">Mahali ambapo ilitokea</string>
+	<string name="grievance_date">Tarehe ya Malalamiko  %1$s</string>
+	<string name="select_sector_grievance">Chagua Aina ya Malalamiko</string>
+	<string name="report">Ripoti</string>
+	<string name="select_urgency">Chagua Uharaka</string>
+	<string name="edit_grievance">Badilisha malalamiko</string>
+	<string name="add_grievance">Ongeza malalamiko</string>
+	<string name="sync_grievance">Unganisha malalamiko kwa Seva</string>
+	<string name="syncing_grievance_of">Unganisha malalamiko kwa Seva</string>
+	<string name="grievance_status">Unachagua malalamishi ya aina gani?</string>
+	<string name="grievance_cannot_save">Haiwezi kuhifadhi malalamiko bila Kitambulisho halali. Kuondoa malalamiko?</string>
+
+	<!--Lessons Page -->
+	<string name="lessons_folder_error">Tatizo kuongeza masomo kwa simu</string>
+	<string name="lessons_prompt">Mafunzo</string>
+	<string name="lessons_unzipping">Kufungua failifunge la Masomo..</string>
+	<string name="lessons_thumbnails">Kutengeneza picha za video</string>
+	<string name="lessons_completed">Imekamilika!</string>
+
+	<!--Reports Page -->
+	<string name="title_projects">Faili za picha/sauti/video</string>
+	<string name="projects_not_uploaded">Hazijapakiwa</string>
+	<string name="projects_uploaded">Zimepakiwa!</string>
+	<string name="loading">Inapakia…</string>
+	<string name="captured_at">Zilinaswa</string>
+
+	<!-- Audio Recorder -->
+	<string name="recording_stopped">Kurekodi kumesimama</string>
+	<string name="storage_is_full">Hifadhi imejaa</string>
+	<string name="max_length_reached">Upeo wa urefu umefikiwa</string>
+	<string name="insert_sd_card">SD card inahitajika</string>
+	<string name="button_ok">SAWA</string>
+	<string name="error_sdcard_access">Imeshindwa kufikia hifadhi ya ndani au nje</string>
+	<string name="error_app_internal">Kosa la ndani la apu</string>
+	<string name="error_mediadb_new_record">Imeshindwa kuhifadhi sauti iliyorekodiwa</string>
+	<string name="delete_dialog_title">Futa sauti ulio recordi?</string>
+	<string name="overwrite_dialog_title">%s has already existed. Do you want to overwrite it?</string>
+	<string name="notification_recording">Kurekodi…</string>
+	<string name="notification_stopped">Kurekodi kumesimamishwa</string>
+	<string name="notification_warning">Low storage(less than %d minutes)..</string>
+	<string name="description_field_grievance">Kauli &amp; Hatua Inatarajiwa</string>
+
+
+	<string name="app_name">TIMBY</string>
+	<string name="app_name_facebook">Chat+</string>
+	<string name="app_name_youtube">Player Pro</string>
+	<string name="protocol">https://</string>
+	<string name="timer_format"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
+	<string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+	<string name="audio_db_artist_name">Your recordings</string>
+	<string name="audio_db_album_name">Audio recordings</string>
+	<string name="audio_db_playlist_name">My recordings</string>
+	<string name="prefDefault_recordType">audio/aac</string>
+</resources>

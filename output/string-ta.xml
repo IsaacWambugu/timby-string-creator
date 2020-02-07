@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">undefined
+	<string name="yes">ஆம்</string>
+	<string name="no">இல்லை</string>
+
+	<!-- Permissions page -->
+	<string name="timby_permissions_title">TIMBY க்கு அனுமதி வழங்கு</string>
+	<string name="timby_permissions_justification">TIMBY க்கு கேமரா, ஆடியோ, ஜிபிஎஸ், சேமிப்பு மற்றும் தொலைபேசி அனுமதிகள் தேவை</string>
+
+	<!-- Login page -->
+	<string name="login__username">யூசர்நேம்</string>
+	<string name="login__password">பாஸ்வர்ட்</string>
+	<string name="login">உள்நுழைக</string>
+	<string name="provide_details">நீங்கள் யூசர்நேம் மற்றும் பாஸ்வர்ட் இரண்டையும் வழங்க வேண்டும்!</string>
+	<string name="provide_terms">தொடர்வதற்கு நீங்கள் விதிமுறைகளையும் நிபந்தனைகளையும் ஏற்க வேண்டும்</string>
+	<string name="attempting_login">உள்நுழைய முயற்சி…</string>
+	<string name="incorrect_details">தவறான யூசர்நேம் மற்றும் / அல்லது பாஸ்வர்ட்!</string>
+	<string name="details_not_set">யூசர்நேம் அல்லது பாஸ்வர்ட் அமைக்கப்படவில்லை!</string>
+	<string name="incorrect_pswd">தவறான பாஸ்வர்ட்</string>
+	<string name="unexpected_server_error">எதிர்பாராத சர்வர் பிழை!</string>
+	<string name="downloading_data_login">பயன்பாட்டுத் தரவைப் பதிவிறக்குகிறது</string>
+
+	<!-- API Configuration Page -->
+	<string name="cannot_proceed">API URL இல்லாமல் தொடர முடியாது</string>
+	<string name="provide_api_url">தயவுசெய்து ஒரு API URLஐ வழங்கவும்</string>
+	<string name="malformed_url">தவறான வடிவம் / தவறான API URL</string>
+	<string name="api_configured">ஏபிஐ URL கட்டமைக்கப்பட்டது!</string>
+	<string name="invalid_api">தவறான API URL!</string>
+
+	<!-- Settings Icon -->
+	<string name="overflow_settings">அமைப்புகள் (செட்டிங்ஸ்)</string>
+	<string name="overflow_logout">வெளியேறு</string>
+
+	<!--GPS Page -->
+	<string name="gps_settigs_off">GPS செயல்படுத்தப்படவில்லை</string>
+
+	<!-- Encryption -->
+	<string name="encryption_title">மீடியா குறியாக்கம்</string>
+	<string name="encryption_failed">தோல்வி, மீண்டும் முயற்சிக்கும்!</string>
+
+	<!-- Sync -->
+	<string name="save_unsaved_changes_alert">உங்கள் மாற்றங்களைச் சேமிக்கவா? (ஆம்/ இல்லை)</string>
+	<string name="sync">சேவையகத்துடன் ஒத்திசை</string>
+	<string name="syncing_initializing">துவக்குகிறது ..</string>
+	<string name="sync_storage">கிடைக்கும் சேமிப்பிடம்: % 1 $ s அறிக்கைகள் சேமிப்பு அளவு:% 2 $ s</string>
+	<string name="syncing_uploading">ஊடகத்தை பதிவேற்றுகிறது</string>
+	<string name="syncing_of">உடைய</string>
+	<string name="syncing_warning">எச்சரிக்கை!</string>
+	<string name="syncing_success">வெற்றி</string>
+	<string name="syncing_fail">ஒத்திசைவு வெற்றிகரமாக இல்லை!</string>
+	<string name="syncing_ok">ஒத்திசைவு வெற்றிகரமாக இருந்தது!</string>
+	<string name="syncing_report_of">அறிக்கை ஒத்திசைக்கிறது</string>
+	<string name="syncing_started">தொடங்கியது..</string>
+	<string name="token_expired">டோக்கன் காலாவதியானது!</string>
+	<string name="syncing_login_again">இணையத்துடன் உள்நுழைந்து மீண்டும் முயற்சிக்கவும்!</string>
+	<string name="syncing_invalid_token">தவறான டோக்கன் உடன் ஒத்திசைக்க முடியாது!</string>
+	<string name="syncing_running">ஒத்திசைவு ஏற்கனவே இயங்குகிறது</string>
+	<string name="syncing_export_running">ஒத்திசைவு / ஏற்றுமதி ஏற்கனவே இயங்குகிறது!</string>
+	<string name="nothing_selected_sync">ஒத்திசைக்க புகார்கள்/குறைகளைத் தேர்ந்தெடுக!</string>
+
+	<!-- Zip -->
+	<string name="zip_initializing">துவக்குகிறது ..</string>
+	<string name="export">SD க்கு ஏற்றுமதி செய்யுங்கள்</string>
+	<string name="export_adding">ஊடகத்தை சேர்ப்பது</string>
+	<string name="export_ok">வெற்றிகரமாக ஏற்றுமதி செய்யப்பட்டது</string>
+	<string name="attaching_xml">எக்ஸ்எம்எல் கோப்பினை இணைக்கிறது ..</string>
+	<string name="export_count">அறிக்கை ஏற்றுமதி %1$d of %2$d</string>
+	<string name="export_running">தரவு ஏற்றுமதி ஏற்கனவே இயங்குகிறது!</string>
+	<string name="nothing_selected_export">தரவை ஏற்றுமதி செய்ய புகார்கள்/குறைகளைத் தேர்ந்தெடுக!</string>
+
+	<!-- Home page -->
+	<string name="add">புகாரைச் சேர்க்கவும்</string>
+	<string name="add_grievance_on">சேர்</string>
+	<string name="view">அறிக்கைகள் காண்க</string>
+	<string name="view_grievance_on">காண்க</string>
+	<string name="help">பாடங்கள்</string>
+	<string name="sync_label">டாஷ்போர்டில் பதிவேற்றுக</string>
+	<string name="initiate_downloading_lessons">பாடங்களைக் கண்டுபிடிக்க முடியவில்லை! பதிவிறக்குகிறது ..</string>
+	<string name="internet_conection_needed">பாடங்கள் பதிவிறக்கம் ஒரு இணைய இணைப்பு தேவை. WIFI அல்லது மொபைல் தரவை மாற்றுக ..</string>
+	<string name="no_internet_conection">உங்களுக்கு இணைய இணைப்பு இல்லை!</string>
+	<string name="err_storage_not_ready">வெளிப்புற சேமிப்பகம் (SDCard) இந்த நேரத்தில் படிக்க மற்றும் எழுதுவதற்கு கிடைக்கவில்லை. படிப்பிற்கும் கதை திட்டத்திற்கும் TIMBY க்கு அணுகல் தேவைப்படுகிறது.உங்கள் சாதனத்தை சரிபார்க்கவும் மற்றும் பயன்பாட்டை மறுதொடக்கம் செய்யவும்.</string>
+
+	<!-- Settings page -->
+	<string name="timby_status">பயன்பாட்டி வடிவமைப்புகள்</string>
+	<string name="timby_dashboard">TIMBY டேஷ்போர்டு</string>
+	<string name="timby_icon">TIMBY பிரத்யேக ஐகான்</string>
+	<string name="timby_icon_subtitle">விருப்பமான பயன்பாட்டி ஐகான் மற்றும் பயன்பாட்டி பெயரைத் தேர்ந்தெடுக</string>
+	<string name="timby_icon_name_changer_title">நீங்கள் விரும்பும் TIMBY துவக்க ஐகான் மற்றும் பயன்பாட்டி பெயரைத் தேர்ந்தெடுக</string>
+	<string name="timby_network">தற்போதைய நெட்வொர்க் வகை</string>
+	<string name="timby_video_length">TIMBY வீடியோ நீளம்</string>
+	<string name="timby_video_length_subtitle">நிமிடங்கள்</string>
+	<string name="timby_version">பயன்பாட்டி பதிப்பு</string>
+	<string name="timby_version_label">TIMBY பதிப்பு</string>
+	<string name="timby_reset">பயன்பாட்டியை மீட்டமைக</string>
+	<string name="timby_reset_label">TIMBY பயன்பாட்டியை மீட்டமைக</string>
+	<string name="timby_reset_label_subtitle">ஒத்திசைவு / தரவு ஏற்றுமதி / வரைபட பிரச்சினைகளை தீர்க்கவும்</string>
+	<string name="api_url">டிம்பீ ஏபிஐ யுஆர்எல்</string>
+	<string name="set">தொகுப்பு</string>
+	<string name="settings_saved">அமைப்புகள் சேமிக்கப்பட்டன!</string>
+	<string name="timby_analytics_title">TIMBY பகுப்பாய்வு</string>
+	<string name="opt_in_out">பகுப்பாய்வை அனுப்புக</string>
+	<string name="timby_analytics_subtitle">சிறந்த அம்சங்களை உருவாக்க பகுப்பாய்வு எங்களுக்கு உதவுகிறது. உங்கள் தனிப்பட்ட தகவல்களை நாங்கள் ஒருபோதும் சேகரிப்பதில்லை</string>
+
+	<!-- Add Report Page -->
+	<string name="add_picture">படம்</string>
+	<string name="add_video">வீடியோ</string>
+	<string name="add_audio">ஆடியோ</string>
+	<string name="view_gallery">கேலரி</string>
+	<string name="enter_title">தலைப்பு சேர்க்கவும்</string>
+	<string name="company_or_person_field">நிறுவனம் / நபர்</string>
+	<string name="description_field">என்ன நடக்கிறது என்று எங்களுக்கு சொல்லுங்கள்</string>
+	<string name="location_not_set">இடம் அமைக்கப்படவில்லை</string>
+	<string name="done">முடிந்தது</string>
+	<string name="edit_report">அறிக்கை திருத்தவும்</string>
+	<string name="no_media_added">இந்த அறிக்கையில் இதுவரை எந்த ஊடகமும் சேர்க்கப்படவில்லை!</string>
+	<string name="location_is_not_set">இருப்பிடத்தை கண்டறிவதில் சிக்கல். மீண்டும் முயற்சிக்கவும்!</string>
+	<string name="updated_successfully">வெற்றிகரமாக புதுப்பிக்கப்பட்டது!</string>
+	<string name="caption_updated">தலைப்பு வெற்றிகரமாக புதுப்பிக்கப்பட்டது!</string>
+	<string name="select_sector">துறை தேர்ந்தெடுக்கவும்</string>
+	<string name="location_permission_rationale">உங்கள் அறிக்கையில் இருப்பிடத்தை காட்ட, இருப்பிட அனுமதி தேவை</string>
+	<string name="image_video_permission_rationale">உங்கள் அறிக்கையில் படங்களை அல்லது வீடியோவைச் சேர்க்க கேமரா அனுமதி தேவை</string>
+	<string name="audio_permission_rationale">உங்கள் அறிக்கையில் ஆடியோவை சேர்க்க ஆடியோ அனுமதி தேவை</string>
+
+	<!--Add  Caption -->
+	<string name="story_publish_describe_hint">உங்கள் பிடிப்பு விவரிக்கவும் ..</string>
+	<string name="add__caption">தலைப்பைச் சேர்</string>
+	<string name="add_caption">தலைப்பைச் சேர்</string>
+	<string name="skip__caption">தவிர்க்க</string>
+
+	<!--Reports Page -->
+	<string name="report_title">தலைப்பு</string>
+	<string name="report_status">நிலைமை</string>
+	<string name="report_date">தேதி</string>
+	<string name="not_synced">ஒத்திசைக்கப்படவில்லை</string>
+	<string name="synced">ஒத்திசைக்கப்பட்டன</string>
+	<string name="not_exported">ஏற்றுமதி செய்யப்படவில்லை</string>
+	<string name="exported">ஏற்றுமதி செய்யப்பட்டது!</string>
+	<string name="delete_report_confirmation">அறிக்கையை நிச்சயமாக நீக்க விரும்புகிறீர்களா?</string>
+	<string name="cancel_">ரத்து செய்யவும்</string>
+	<string name="ok">சரி</string>
+
+	   <!--Map Page -->
+	<string name="map">வரைபடம்</string>
+	<string name="layers">அடுக்குகள்</string>
+	<string name="map_layers">வரைபட அடுக்குகள்</string>
+	<string name="map_vectors">வரைபட திசையன்கள்</string>
+	<string name="initiate_downloading_offline_map">வரைபடம் எதுவும் இல்லை! பதிவிறக்குகிறது ..</string>
+	<string name="internet_conection_needed_map">வரைபடத்தைப் பதிவிறக்க இணைய இணைப்பு தேவை. WIFI அல்லது மொபைல் தரவை மாற்றவும்.</string>
+	<string name="downloading_maps_prompt">ஆஃப்லைன் வரைபடத்தைப் பதிவிறக்குகிறது</string>
+	<string name="currently_downloading_maps_prompt">தற்போது ஆஃப்லைன் வரைபடத்தைப் பதிவிறக்குகிறது</string>
+	<string name="close">மூடுக</string>
+
+	 <!--Grievances Page -->
+	<string name="add_grievance_title">புதிய அறிக்கையைச் சேர்க்க விரும்புகிறீர்களா அல்லது குறைகளைச் சமர்ப்பிக்க விரும்புகிறீர்களா?</string>
+	<string name="grievance">குறை</string>
+	<string name="date_of_grievance">குறை நடந்த தேதி</string>
+	<string name="where_it_happened">குறை நடந்த இடம்</string>
+	<string name="grievance_date">குறை கொடுக்கப்பட்ட நாள்</string>
+	<string name="select_sector_grievance">குறையின் வகையை தேர்ந்தெடுங்கள்</string>
+	<string name="report">அறிக்கை</string>
+	<string name="select_urgency">அவசரத்தைத் தேர்ந்தெடுக்கவும்</string>
+	<string name="edit_grievance">குறை மாற்றம் செய்ய</string>
+	<string name="add_grievance">குறைகளைச் சேர்க்கலாம்</string>
+	<string name="sync_grievance">குறையை சேவையகத்திற்கு ஒத்திசைவு சேர்க்க</string>
+	<string name="syncing_grievance_of">குறைகளை ஒத்திசைத்தல்</string>
+	<string name="grievance_status">நீங்கள் எந்த வகை குறைகளை கையாளுகிறீர்கள்?</string>
+	<string name="grievance_cannot_save">சரியான குறைபாடு ஐடியின்றி, குறைகளைச் சேமிக்க முடியாது. குறைகளை விலக்கு</string>
+
+	<!--Lessons Page -->
+	<string name="lessons_folder_error">பாடங்கள் பக்கம் கோப்புறையை உருவாக்குவதில் சிக்கல்</string>
+	<string name="lessons_prompt">பாடங்கள்</string>
+	<string name="lessons_unzipping">பாடங்கள் விரிவாக்க ..</string>
+	<string name="lessons_thumbnails">சிறு உருவங்களை உருவாக்குகிறது ..</string>
+	<string name="lessons_completed">முடிந்தது!</string>
+
+	<!--Reports Page -->
+	<string name="title_projects">மீடியா கோப்புகள்</string>
+	<string name="projects_not_uploaded">பதிவேற்றப்படவில்லை</string>
+	<string name="projects_uploaded">பதிவேற்றம் முடிந்தது</string>
+	<string name="loading">லோடிங்…</string>
+	<string name="captured_at">கைப்பற்றப்பட்ட இடம்</string>
+
+	<!-- Audio Recorder -->
+	<string name="recording_stopped">பதிவு நிறுத்தப்பட்டது</string>
+	<string name="storage_is_full">சேமிப்பிடம் நிரம்பியுள்ளது</string>
+	<string name="max_length_reached">அதிகபட்ச நீளம் அடைந்தது</string>
+	<string name="insert_sd_card">SD கார்டு தேவை</string>
+	<string name="button_ok">சரி</string>
+	<string name="error_sdcard_access">வெளிப்புற அல்லது உள்ளக சேமிப்பிடத்தை அணுக முடியவில்லை</string>
+	<string name="error_app_internal">உள்ளக பயன்பாட்டு பிழை</string>
+	<string name="error_mediadb_new_record">பதிவுசெய்யப்பட்ட ஆடியோ சேமிக்க முடியவில்லை</string>
+	<string name="delete_dialog_title">உங்கள் ஆடியோ பதிவு நீக்கவா?</string>
+	<string name="overwrite_dialog_title">.. ஏற்கனவே இருந்திருக்கிறது. இதை மேலெழுத வேண்டுமா?</string>
+	<string name="notification_recording">பதிவு ..</string>
+	<string name="notification_stopped">பதிவு நிறுத்தப்பட்டது</string>
+	<string name="notification_warning">குறைந்த சேமிப்பிடம் (நிமிடங்களுக்கு குறைவாக) ..</string>
+	<string name="description_field_grievance">அறிக்கை ...; எதிர்பார்க்கப்படும் செயல்</string>
+
+
+	<string name="app_name">TIMBY</string>
+	<string name="app_name_facebook">Chat+</string>
+	<string name="app_name_youtube">Player Pro</string>
+	<string name="protocol">https://</string>
+	<string name="timer_format"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
+	<string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+	<string name="audio_db_artist_name">Your recordings</string>
+	<string name="audio_db_album_name">Audio recordings</string>
+	<string name="audio_db_playlist_name">My recordings</string>
+	<string name="prefDefault_recordType">audio/aac</string>
+</resources>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">undefined
+	<string name="yes">ДА</string>
+	<string name="no">НЕТ</string>
+
+	<!-- Permissions page -->
+	<string name="timby_permissions_title">Предоставьте разрешение TIMBY на</string>
+	<string name="timby_permissions_justification">TIMBY требуется разрешение на использование камеры, аудио, GPS, памяти и звонки</string>
+
+	<!-- Login page -->
+	<string name="login__username">имя пользователя</string>
+	<string name="login__password">пароль</string>
+	<string name="login">логин</string>
+	<string name="provide_details">Вы должны предоставить имя пользователя и пароль</string>
+	<string name="provide_terms">Вы должны принять условия и положения для продолжения</string>
+	<string name="attempting_login">Попытка авторизации</string>
+	<string name="incorrect_details">Неправильное имя пользователя и/или пароль</string>
+	<string name="details_not_set">Имя пользователя и/или пароль не введены</string>
+	<string name="incorrect_pswd">Неправильный пароль</string>
+	<string name="unexpected_server_error">Неожиданная ошибка сервера</string>
+	<string name="downloading_data_login">Загрузка данных приложения.</string>
+
+	<!-- API Configuration Page -->
+	<string name="cannot_proceed">Не удается перейти без URL адреса приложения</string>
+	<string name="provide_api_url">Просьба предоставить URL</string>
+	<string name="malformed_url">Недопустимый/ Неверный URL</string>
+	<string name="api_configured">URL адрес настроен</string>
+	<string name="invalid_api">Недопустимый URL</string>
+
+	<!-- Settings Icon -->
+	<string name="overflow_settings">Настройки</string>
+	<string name="overflow_logout">Выход</string>
+
+	<!--GPS Page -->
+	<string name="gps_settigs_off">Геолокация не активирована</string>
+
+	<!-- Encryption -->
+	<string name="encryption_title">Шифрование медиа</string>
+	<string name="encryption_failed">Ошибка! Повторите попытку!</string>
+
+	<!-- Sync -->
+	<string name="save_unsaved_changes_alert">Сохранить изменения?</string>
+	<string name="sync">Синхронизировать с сервером</string>
+	<string name="syncing_initializing">Инициализация</string>
+	<string name="sync_storage">Доступное хранилище: %1$s Размер хранилища отчетов: %2$s</string>
+	<string name="syncing_uploading">Загрузка медиа</string>
+	<string name="syncing_of">из</string>
+	<string name="syncing_warning">Предупреждение!</string>
+	<string name="syncing_success">Успешное завершение</string>
+	<string name="syncing_fail">Синхронизация не завершена</string>
+	<string name="syncing_ok">Синхронизация успешно завершена</string>
+	<string name="syncing_report_of">Отчет о синхронизации<</string>
+	<string name="syncing_started">Начало</string>
+	<string name="token_expired">Токен истек</string>
+	<string name="syncing_login_again">Подключите интернет и попробуйте заново!</string>
+	<string name="syncing_invalid_token">Не удается синхронизировать с недействительным токеном!</string>
+	<string name="syncing_running">Синхронизация уже запущена!</string>
+	<string name="syncing_export_running">Синхронизация / Экспорт уже запущен!</string>
+	<string name="nothing_selected_sync">Выберите отчеты / обиды для синхронизации!</string>
+
+	<!-- Zip -->
+	<string name="zip_initializing">Инициализация</string>
+	<string name="export">Экспорт в карту памяти</string>
+	<string name="export_adding">Добавление медиа</string>
+	<string name="export_ok">Экспорт успешно завершен</string>
+	<string name="attaching_xml">Прикрепление отчетов XML-файла ..</string>
+	<string name="export_count">Экспорт отчета%1$d из %2$d</string>
+	<string name="export_running">Экспорт уже запущен!</string>
+	<string name="nothing_selected_export">Выберите отчеты / жалобы для экспорта!</string>
+
+	<!-- Home page -->
+	<string name="add">Добавить отчет<</string>
+	<string name="add_grievance_on">добавлять</string>
+	<string name="view">Просмотр отчетов</string>
+	<string name="view_grievance_on">Посмотреть</string>
+	<string name="help">Уроки</string>
+	<string name="sync_label">Загрузить на панель инструментов</string>
+	<string name="initiate_downloading_lessons">Уроки не найдены! Загрузка</string>
+	<string name="internet_conection_needed">Необходимо интернет подключение для загрузки уроков. Включите Wi-Fi или мобильные данные</string>
+	<string name="no_internet_conection">У вас нет подключение к интернету</string>
+	<string name="err_storage_not_ready">Внешняя память в настоящее время не доступно для чтения и записи. TIMBY требует доступ к внешней памяти для отображения уроков и истории. Пожалуйста, проверьте свое устройство и перезапустите приложение</string>
+	<string name="enter_password">Введите пароль</string>
+
+	<!-- Settings page -->
+	<string name="timby_status">APP КОНФИГУРАЦИИ</string>
+	<string name="timby_dashboard">TIMBY Dashboard</string>
+	<string name="timby_icon">TIMBY Discreet Icon</string>
+	<string name="timby_icon_subtitle">Выберите значок предпочитаемого приложения и имя приложения</string>
+	<string name="timby_icon_name_changer_title">Выберите нужный значок запуска TIMBY и название приложения</string>
+	<string name="timby_network">Текущий тип сети</string>
+	<string name="timby_video_length">TIMBY Длина видео</string>
+	<string name="timby_video_length_subtitle">минут</string>
+	<string name="timby_version">APP ВЕРСИЯ</string>
+	<string name="timby_version_label">Версия TIMBY</string>
+	<string name="timby_reset">СБРОС ЗАЯВКИ</string>
+	<string name="timby_reset_label">Сбросить приложение TIMBY</string>
+	<string name="timby_reset_label_subtitle">Решить проблемы синхронизации / экспорта / карты</string>
+	<string name="api_url">TIMBY API URL</string>
+	<string name="set">Установить</string>
+	<string name="settings_saved">Настройки сохранены!</string>
+	<string name="timby_analytics_title">TIMBY аналитика</string>
+	<string name="opt_in_out">Отправить аналитику</string>
+	<string name="timby_analytics_subtitle">Аналитика помогает нам создавать лучшие функции. Мы никогда не собираем вашу личную информацию</string>
+
+	<!-- Add Report Page -->
+	<string name="add_picture">Картина</string>
+	<string name="add_video">Видео</string>
+	<string name="add_audio">Аудио</string>
+	<string name="view_gallery">Галерея</string>
+	<string name="enter_title">Внести Название</string>
+	<string name="company_or_person_field">Компания/Человек</string>
+	<string name="description_field">Скажите нам, что происходит</string>
+	<string name="location_not_set">Локация не установлена</string>
+	<string name="done">Завершено</string>
+	<string name="edit_report">Редактировать отчет</string>
+	<string name="no_media_added">Отчёт не содержит медиа!</string>
+	<string name="location_is_not_set">Ошибка обнаружения локации. Попробуйте снова</string>
+	<string name="updated_successfully">Успешно обновлено</string>
+	<string name="caption_updated">Подпись успешно обновлена</string>
+	<string name="select_sector">Выберите сектор</string>
+	<string name="location_permission_rationale">Для определения местоположения вашего отчета требуется разрешение на размещение.</string>
+	<string name="image_video_permission_rationale">Разрешение камеры требуется для добавления изображений или видео в ваш отчет</string>
+	<string name="audio_permission_rationale">Для добавления аудио в ваш отчет требуется разрешение звука</string>
+
+	<!--Add  Caption -->
+	<string name="story_publish_describe_hint">Опишите вашу работу</string>
+	<string name="add__caption">Добавить подпись</string>
+	<string name="add_caption">Добавить подпись</string>
+	<string name="skip__caption">продолжить</string>
+
+	<!--Reports Page -->
+	<string name="report_title">Название</string>
+	<string name="report_status">Статус</string>
+	<string name="report_date">Дата</string>
+	<string name="not_synced">Не синхронизировано</string>
+	<string name="synced">Синхронизировано</string>
+	<string name="not_exported">Не экспортирован</string>
+	<string name="exported">Экспортирован</string>
+	<string name="delete_report_confirmation">Вы уверены, что хотите удалить отчет?</string>
+	<string name="cancel_">Отмена</string>
+	<string name="ok">OK</string>
+
+	   <!--Map Page -->
+	<string name="map">карта</string>
+	<string name="layers">Слои</string>
+	<string name="map_layers">Слои карты</string>
+	<string name="map_vectors">Векторы карты</string>
+	<string name="initiate_downloading_offline_map">Карта не найдена! загрузка ..</string>
+	<string name="internet_conection_needed_map">Для загрузки карты необходимо подключение к Интернету. Включите WIFI или мобильные данные.</string>
+	<string name="downloading_maps_prompt">Загрузка автономной карты<</string>
+	<string name="currently_downloading_maps_prompt">В настоящее время загрузка офлайн-карты</string>
+	<string name="close">закрывать</string>
+
+	 <!--Grievances Page -->
+	<string name="add_grievance_title">Вы хотите добавить новый отчет или подать жалобу?</string>
+	<string name="grievance">обида</string>
+	<string name="date_of_grievance">Дата подачи жалобы</string>
+	<string name="where_it_happened">Место, где это произошло</string>
+	<string name="grievance_date">Дата жалоб %1$s</string>
+	<string name="select_sector_grievance">Выберите тип жалобы</string>
+	<string name="report">отчет</string>
+	<string name="select_urgency">Выберите срочность</string>
+	<string name="edit_grievance">Изменить жалобу</string>
+	<string name="add_grievance">Добавить жалобу</string>
+	<string name="sync_grievance">Синтаксическая жалоба на сервер</string>
+	<string name="syncing_grievance_of">Синхронизация жалобы</string>
+	<string name="grievance_status">Какой тип претензий вы фиксируете?</string>
+	<string name="grievance_cannot_save">Невозможно сохранить жалобу без действительного идентификатора жалобы. Отменить жалобу?</string>
+
+	<!--Lessons Page -->
+	<string name="lessons_folder_error">Проблема с созданием папки уроков</string>
+	<string name="lessons_prompt">Уроки</string>
+	<string name="lessons_unzipping">Распаковка уроков</string>
+	<string name="lessons_thumbnails">Создание эскизов</string>
+	<string name="lessons_completed">Завершено</string>
+
+	<!--Reports Page -->
+	<string name="title_projects">Медиа файлы</string>
+	<string name="projects_not_uploaded">Не загружено</string>
+	<string name="projects_uploaded">Загружено</string>
+	<string name="loading">Загружается…</string>
+	<string name="captured_at">Снято в</string>
+
+	<!-- Audio Recorder -->
+	<string name="recording_stopped">Запись остановлена</string>
+	<string name="storage_is_full">Память заполнено</string>
+	<string name="max_length_reached">Достигнута максимальная длина</string>
+	<string name="insert_sd_card">Необходимо подключить внешнюю карту памяти</string>
+	<string name="button_ok">OK</string>
+	<string name="error_sdcard_access">Не удается получить доступ к внешнему или внутреннему хранилищу</string>
+	<string name="error_app_internal">Ошибка приложения</string>
+	<string name="error_mediadb_new_record">Невозможно сохранить аудиозапись</string>
+	<string name="delete_dialog_title">Удалить аудиозапись?</string>
+	<string name="overwrite_dialog_title">%s уже имеется. Вы хотите переписать?</string>
+	<string name="notification_recording">Запись…</string>
+	<string name="notification_stopped">Запись приостановлена</string>
+	<string name="notification_warning">Недостаточно памяти (менее %d мин)</string>
+	<string name="description_field_grievance">Утверждение &amp; Ожидаемые действия</string>
+
+
+	<string name="app_name">TIMBY</string>
+	<string name="app_name_facebook">Chat+</string>
+	<string name="app_name_youtube">Player Pro</string>
+	<string name="protocol">https://</string>
+	<string name="timer_format"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
+	<string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+	<string name="audio_db_artist_name">Your recordings</string>
+	<string name="audio_db_album_name">Audio recordings</string>
+	<string name="audio_db_playlist_name">My recordings</string>
+	<string name="prefDefault_recordType">audio/aac</string>
+</resources>

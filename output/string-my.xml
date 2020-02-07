@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">undefined
+	<string name="yes">YA</string>
+	<string name="no">TIDAK</string>
+
+	<!-- Permissions page -->
+	<string name="timby_permissions_title">Izinkan TIMBY</string>
+	<string name="timby_permissions_justification">TIMBY memerlukan keizinan kamera, audio, GPS, storan dan telefon</string>
+
+	<!-- Login page -->
+	<string name="login__username">nama pengguna</string>
+	<string name="login__password">kata laluan</string>
+	<string name="login">Log masuk</string>
+	<string name="provide_details">Anda perlu masukkan nama pengguna dan kata laluan!</string>
+	<string name="provide_terms">Anda mesti bersetuju dengan terma dan syarat untuk meneruskan</string>
+	<string name="attempting_login">Cuba melog masuk…</string>
+	<string name="incorrect_details">Nama pengguna dan/atau kata laluan salah!</string>
+	<string name="details_not_set">Nama pengguna dan/atau kata laluan tidak ditetapkan!</string>
+	<string name="incorrect_pswd">Kata laluan salah</string>
+	<string name="unexpected_server_error">Ralat pelayan tidak dijangka berlaku!</string>
+	<string name="downloading_data_login">Memuat turun data aplikasi…</string>
+
+	<!-- API Configuration Page -->
+	<string name="cannot_proceed">Tidak boleh teruskan tanpa URL API</string>
+	<string name="provide_api_url">Sila masukkan URL API</string>
+	<string name="malformed_url">URL API salah/tidak sah</string>
+	<string name="api_configured">URL API dikonfigurasi!</string>
+	<string name="invalid_api">URL API tidak sah!</string>
+
+	<!-- Settings Icon -->
+	<string name="overflow_settings">Settings</string>
+	<string name="overflow_logout">Log keluar</string>
+
+	<!--GPS Page -->
+	<string name="gps_settigs_off">GPS tidak diaktifkan</string>
+
+	<!-- Encryption -->
+	<string name="encryption_title">Penyulitan Media</string>
+	<string name="encryption_failed">Gagal, akan mencuba lagi!</string>
+
+	<!-- Sync -->
+	<string name="save_unsaved_changes_alert">Simpan perubahan anda?</string>
+	<string name="sync">Selaras ke Pelayan</string>
+	<string name="syncing_initializing">Memulakan…</string>
+	<string name="sync_storage">Baki storan: %1$s Saiz storan laporan: %2$s</string>
+	<string name="syncing_uploading">Memuat naik media</string>
+	<string name="syncing_of">drpd</string>
+	<string name="syncing_warning">Amaran!</string>
+	<string name="syncing_success">Berjaya</string>
+	<string name="syncing_fail">Penyelarasan tidak berjaya!</string>
+	<string name="syncing_ok">Penyelarasan telah berjaya!</string>
+	<string name="syncing_report_of">Laporan Penyelarasan</string>
+	<string name="syncing_started">Bermula…</string>
+	<string name="token_expired">Token telah luput!</string>
+	<string name="syncing_login_again">Log masuk dengan sambungan internet dan cuba lagi!</string>
+	<string name="syncing_invalid_token">Tidak dapat menyelaras dengan token tidak sah!</string>
+	<string name="syncing_running">Penyelarasan sedang berjalan!</string>
+	<string name="syncing_export_running">Segerak / Eksport sudah berjalan!</string>
+	<string name="nothing_selected_sync">Pilih laporan / keluhan untuk disegerakkan!</string>
+
+	<!-- Zip -->
+	<string name="zip_initializing">Memulakan….</string>
+	<string name="export">Eksport ke SD</string>
+	<string name="export_adding">Menambah media</string>
+	<string name="export_ok">Berjaya dieskport</string>
+	<string name="attaching_xml">Melampirkan laporan dalam fail XML…</string>
+	<string name="export_count">Mengeksport Laporan %1$d drpd %2$d</string>
+	<string name="export_running">Eksport sudah berjalan!</string>
+	<string name="nothing_selected_export">Pilih laporan / rungutan untuk dieksport!</string>
+
+	<!-- Home page -->
+	<string name="add">Tambah Laporan</string>
+	<string name="add_grievance_on">Tambah</string>
+	<string name="view">Tambah Laporan</string>
+	<string name="view_grievance_on">Tambah</string>
+	<string name="help">Tutorial</string>
+	<string name="sync_label">Muat naik ke Papan Pemuka</string>
+	<string name="initiate_downloading_lessons">Tiada tutorial ditemui! Memuat turun…</string>
+	<string name="internet_conection_needed">Sambungan Internet diperlukan untuk memuat turun tutorial. Hidupkan WIFI atau Data Selular.</string>
+	<string name="no_internet_conection">Anda tiada sambungan internet!</string>
+	<string name="err_storage_not_ready">Storan luar (Kad SD) nampaknya tidak tersedia untuk dibaca dan ditulis buat masa ini. TIMBY memerlukan akses kepada kad ini untuk menyimpan tutorial dan data projek cerita. Sila semak peranti anda dan mulakan semula Aplikasi.</string>
+	<string name="enter_password">Masukkan kata laluan</string>
+
+	<!-- Settings page -->
+	<string name="timby_status">KONFIGURASI APP</string>
+	<string name="timby_dashboard">Papan Pemuka TIMBY</string>
+	<string name="timby_icon">TIMBY Discreet Icon</string>
+	<string name="timby_icon_subtitle">Pilih ikon apl pilihan dan nama apl</string>
+	<string name="timby_icon_name_changer_title">Pilih ikon pelancar TIMBY yang anda mahukan dan nama aplikasinya</string>
+	<string name="timby_network">Jenis Rangkaian Semasa</string>
+	<string name="timby_video_length">Panjang Video TIMBY</string>
+	<string name="timby_video_length_subtitle">minit</string>
+	<string name="timby_version">APP VERSION</string>
+	<string name="timby_version_label">TIMBY Version</string>
+	<string name="timby_reset">PERMOHONAN MENGISI</string>
+	<string name="timby_reset_label">Tetapkan semula TIMBY App</string>
+	<string name="timby_reset_label_subtitle">Selesaikan isu Segerak / Eksport / Peta</string>
+	<string name="api_url">URL API TIMBY</string>
+	<string name="set">Set</string>
+	<string name="settings_saved">Seting telah disimpan!</string>
+	<string name="timby_analytics_title">Analisis TIMBY</string>
+	<string name="opt_in_out">Hantar Analitis</string>
+	<string name="timby_analytics_subtitle">Analitis membantu kami membina ciri yang lebih baik. Kami tidak pernah mengumpul maklumat peribadi anda</string>
+
+	<!-- Add Report Page -->
+	<string name="add_picture">Imej</string>
+	<string name="add_video">Video</string>
+	<string name="add_audio">Audio</string>
+	<string name="view_gallery">Galeri</string>
+	<string name="enter_title">Masukkan Tajuk</string>
+	<string name="company_or_person_field">Syarikat/Orang</string>
+	<string name="description_field">Beritahu kami apa yang sedang berlaku</string>
+	<string name="location_not_set">Lokasi tidak ditetapkan</string>
+	<string name="done">Selesai</string>
+	<string name="edit_report">Edit Laporan</string>
+	<string name="no_media_added">Tiada media ditambah ke dalam laporan ini lagi!</string>
+	<string name="location_is_not_set">Masalah mencari lokasi. Cuba lagi kemudian!</string>
+	<string name="updated_successfully">Berjaya dikemas kini!</string>
+	<string name="caption_updated">Kapsyen berjaya dikemas kini!!</string>
+	<string name="select_sector">Pilih Sektor</string>
+	<string name="location_permission_rationale">Kebenaran lokasi diperlukan untuk memaparkan lokasi laporan anda</string>
+	<string name="image_video_permission_rationale">Kebenaran kamera diperlukan untuk menambah imej atau video kepada laporan anda</string>
+	<string name="audio_permission_rationale">Kebenaran audio diperlukan untuk menambah audio kepada laporan anda</string>
+
+	<!--Add  Caption -->
+	<string name="story_publish_describe_hint">Terangkan imej anda</string>
+	<string name="add__caption">Tambah Kapsyen</string>
+	<string name="add_caption">Tambah Kapsyen</string>
+	<string name="skip__caption">Langkau >></string>
+
+	<!--Reports Page -->
+	<string name="report_title">Tajuk</string>
+	<string name="report_status">Status</string>
+	<string name="report_date">Tarikh</string>
+	<string name="not_synced">Tidak selaras</string>
+	<string name="synced">Selaras</string>
+	<string name="not_exported">Tidak dieksport</string>
+	<string name="exported">Dieksport</string>
+	<string name="delete_report_confirmation">Adakah anda pasti anda ingin memadam laporan?</string>
+	<string name="cancel_">Batal</string>
+	<string name="ok">OK</string>
+
+	   <!--Map Page -->
+	<string name="map">Peta</string>
+	<string name="layers">Lapisan</string>
+	<string name="map_layers">Lapisan peta</string>
+	<string name="map_vectors">Peta Vektor</string>
+	<string name="initiate_downloading_offline_map">Tiada peta dijumpai! muat turun ..</string>
+	<string name="internet_conection_needed_map">Sambungan Internet diperlukan untuk memuat turun peta. Hidupkan WIFI atau data mudah alih.</string>
+	<string name="downloading_maps_prompt">Memuat turun peta luar talian</string>
+	<string name="currently_downloading_maps_prompt">Kini memuat turun peta luar talian</string>
+	<string name="close">menutup</string>
+
+	 <!--Grievances Page -->
+	<string name="add_grievance_title">Adakah anda ingin menambah laporan baru atau memfailkan aduan ?</string>
+	<string name="grievance">Keluhan</string>
+	<string name="date_of_grievance">Tarikh keluhan %1$s</string>
+	<string name="where_it_happened">Lokasi di mana ia berlaku</string>
+	<string name="grievance_date">Tarikh keluhan %1$s</string>
+	<string name="select_sector_grievance">Pilih jenis keluhan</string>
+	<string name="report">Laporan</string>
+	<string name="select_urgency">Pilih segera</string>
+	<string name="edit_grievance">Edit keluhan</string>
+	<string name="add_grievance">Tambah keluhan</string>
+	<string name="sync_grievance">Menyegerakkan keluhan kepada pelayan</string>
+	<string name="syncing_grievance_of">Menyelaras keluhan</string>
+	<string name="grievance_status">Apakah jenis Rungutan yang ingin dilaporkan?</string>
+	<string name="grievance_cannot_save">Tidak dapat menyimpan rungutan tanpa ID rungutan yang sah. Buang rungutan</string>
+
+	<!--Lessons Page -->
+	<string name="lessons_folder_error">Masalah mencipta folder tutorial</string>
+	<string name="lessons_prompt">Tutorial</string>
+	<string name="lessons_unzipping">Membuka Zip Tutorial…</string>
+	<string name="lessons_thumbnails">Menjana thumbnail…</string>
+	<string name="lessons_completed">Selesai!</string>
+
+	<!--Reports Page -->
+	<string name="title_projects">Fail Media</string>
+	<string name="projects_not_uploaded">Tidak dimuat naik</string>
+	<string name="projects_uploaded">Dimuat naik!</string>
+	<string name="loading">Memuat…</string>
+	<string name="captured_at">Ditangkap di</string>
+
+	<!-- Audio Recorder -->
+	<string name="recording_stopped">Rakaman berhenti</string>
+	<string name="storage_is_full">Storan telah penuh</string>
+	<string name="max_length_reached">Panjang maksimum dicapai</string>
+	<string name="insert_sd_card">Kad SD diperlukan</string>
+	<string name="button_ok">OK</string>
+	<string name="error_sdcard_access">Tidak dapat mengakses storan luaran atau dalaman</string>
+	<string name="error_app_internal">Ralat aplikasi dalaman</string>
+	<string name="error_mediadb_new_record">Tidak dapat menyimpan rakaman audio</string>
+	<string name="delete_dialog_title">Padam rakaman audio anda?</string>
+	<string name="overwrite_dialog_title">%s sudah wujud. Adakah anda mahu menggantinya?</string>
+	<string name="notification_recording">Merakam…</string>
+	<string name="notification_stopped">Rakaman dihentikan</string>
+	<string name="notification_warning">Storan rendah (kurang daripada %d minit)…</string>
+	<string name="description_field_grievance">Kenyataan …; Tindakan Dijangka</string>
+
+
+	<string name="app_name">TIMBY</string>
+	<string name="app_name_facebook">Chat+</string>
+	<string name="app_name_youtube">Player Pro</string>
+	<string name="protocol">https://</string>
+	<string name="timer_format"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
+	<string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+	<string name="audio_db_artist_name">Your recordings</string>
+	<string name="audio_db_album_name">Audio recordings</string>
+	<string name="audio_db_playlist_name">My recordings</string>
+	<string name="prefDefault_recordType">audio/aac</string>
+</resources>

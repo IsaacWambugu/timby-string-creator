@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">undefined
+	<string name="yes">OUI</string>
+	<string name="no">NON</string>
+
+	<!-- Permissions page -->
+	<string name="timby_permissions_title">Accorder des autorisations à TIMBY.</string>
+	<string name="timby_permissions_justification">TIMBY besoins Appareil photo,audio,GPS,stockage &amp; autorisations de téléphone.</string>
+
+	<!-- Login page -->
+	<string name="login__username">identifiant</string>
+	<string name="login__password">mot de passe</string>
+	<string name="login">Se Connecter</string>
+	<string name="provide_details">Vous devez fournir à la fois un identifiant et un mot de passe!</string>
+	<string name="provide_terms">>Vous devez accepter les regles et conditions pour continuer</string>
+	<string name="attempting_login">Connexion en cours..</string>
+	<string name="incorrect_details">Nom d\'utilisateur et/ou mot de passe erroné!</string>
+	<string name="details_not_set">Nom d\'utilisateur et/ou mot de passe manquant!</string>
+	<string name="incorrect_pswd">Mot de passe erroné</string>
+	<string name="unexpected_server_error">Erreur serveur inattendue!</string>
+	<string name="downloading_data_login">Téléchargement des données de l\'application ..</string>
+
+	<!-- API Configuration Page -->
+	<string name="cannot_proceed">Impossible de procéder sans l\\\'URL de l\\\'API.</string>
+	<string name="provide_api_url">Veuillez fournir une URL API</string>
+	<string name="malformed_url">URL malformée. / Non valide de l\\\'API.</string>
+	<string name="api_configured">URL de l\\\'API configurée!</string>
+	<string name="invalid_api">URL de l\\\'API non valide!</string>
+
+	<!-- Settings Icon -->
+	<string name="overflow_settings">Paramètres</string>
+	<string name="overflow_logout">Se déconnecter</string>
+
+	<!--GPS Page -->
+	<string name="gps_settigs_off">GPS inactif</string>
+
+	<!-- Encryption -->
+	<string name="encryption_title">Cryptage des fichiers multimédias</string>
+	<string name="encryption_failed">Echec, nouvelle tentative!</string>
+
+	<!-- Sync -->
+	<string name="save_unsaved_changes_alert">Enregistrer vos modifications?</string>
+	<string name="sync">Synchroniser</string>
+	<string name="syncing_initializing">Initialisation..</string>
+	<string name="sync_storage">Stockage disponible: %1$s  Taille de stockage des rapports: %2$s</string>
+	<string name="syncing_uploading">Téléchargement du fichier</string>
+	<string name="syncing_of">de</string>
+	<string name="syncing_warning">Attention!</string>
+	<string name="syncing_success">Réussi</string>
+	<string name="syncing_fail">Echec de synchronisation!</string>
+	<string name="syncing_ok">Synchronisation réussie!</string>
+	<string name="syncing_report_of">Synchronisation du rapport</string>
+	<string name="syncing_started">Démarré..</string>
+	<string name="token_expired">Token expiré!</string>
+	<string name="syncing_login_again">Connectez-vous à Internet et essayez de nouveau!</string>
+	<string name="syncing_invalid_token">Impossible de synchroniser avec un token non valide!</string>
+	<string name="syncing_running">La synchronisation est déjà en cours!</string>
+	<string name="syncing_export_running">Sync / Export est déjà en cours!</string>
+	<string name="nothing_selected_sync">Sélectionnez les rapports / griefs à synchroniser!</string>
+
+	<!-- Zip -->
+	<string name="zip_initializing">Initialisation..</string>
+	<string name="export">Enregistrer sur SD</string>
+	<string name="export_adding">Ajout de medias</string>
+	<string name="export_ok">Enregistrement terminé!</string>
+	<string name="attaching_xml">Attachement du rapport XML..</string>
+	<string name="export_count">Exportation du rapport %1$d de %2$d</string>
+	<string name="export_running">L'exportation est déjà en cours!</string>
+	<string name="nothing_selected_export">Sélectionnez les rapports / griefs à exporter!</string>
+
+	<!-- Home page -->
+	<string name="add">Ajouter un rapport</string>
+	<string name="add_grievance_on">Ajouter</string>
+	<string name="view">Visualiser les rapports</string>
+	<string name="view_grievance_on">Vue</string>
+	<string name="help">Cours</string>
+	<string name="sync_label">Ajouter au tableau debord</string>
+	<string name="initiate_downloading_lessons">Aucun cours trouvé. Téléchargement des cours..</string>
+	<string name="internet_conection_needed">Vous devez être connecté pour pouvoir télécharger les cours. Activer votre WIFI ou les données mobiles</string>
+	<string name="no_internet_conection">Vous n\'êtes pas connecté à internet!</string>
+	<string name="err_storage_not_ready">>Le stockage externe (carte SD) ne semble pas disponible à la lecture ni à l\'écriture. TIMBY a besoin de ces accès pour les cours et les données des projets d\'histoire. Veuilez vérifier votre appareil et redémarrer l\'application </string>
+	<string name="enter_password">Entrer un mot de passe</string>
+
+	<!-- Settings page -->
+	<string name="timby_status">CONFIGURATIONS DE L'APPLICATION</string>
+	<string name="timby_dashboard">Tableau de bord TIMBY</string>
+	<string name="timby_icon">Icône discrète TIMBY</string>
+	<string name="timby_icon_subtitle">Sélectionnez une icône et un nom d'application préférés</string>
+	<string name="timby_icon_name_changer_title">Sélectionnez l'icône du lanceur TIMBY et le nom de l'application souhaités</string>
+	<string name="timby_network">Type de réseau actuel</string>
+	<string name="timby_video_length">Durée vidéo TIMBY</string>
+	<string name="timby_video_length_subtitle">minutes</string>
+	<string name="timby_version">VERSION DE L'APPLICATION</string>
+	<string name="timby_version_label">Version TIMBY</string>
+	<string name="timby_reset">RÉINITIALISER L'APPLICATION</string>
+	<string name="timby_reset_label">Réinitialiser l'application TIMBY</string>
+	<string name="timby_reset_label_subtitle">Résoudre les problèmes de synchronisation / exportation / mappage</string>
+	<string name="api_url">API url</string>
+	<string name="set">Ensemble</string>
+	<string name="settings_saved">Les Paramètres ont ete sauvegardes!</string>
+	<string name="timby_analytics_title">TIMBY Analytics</string>
+	<string name="opt_in_out">Envoyer des analyses</string>
+	<string name="timby_analytics_subtitle">Analytics nous aide à créer de meilleures fonctionnalités. Nous ne collectons jamais vos informations personnelles</string>
+
+	<!-- Add Report Page -->
+	<string name="add_picture">Image</string>
+	<string name="add_video">Vidéo</string>
+	<string name="add_audio">Audio</string>
+	<string name="view_gallery">Gallerie</string>
+	<string name="enter_title">Entrer un Titre</string>
+	<string name="company_or_person_field">Ajouter une compagnie/personne</string>
+	<string name="description_field">Décrivez ce qu\'il se passe</string>
+	<string name="location_not_set">Localisation non définie</string>
+	<string name="done">Enregistrer</string>
+	<string name="edit_report">Modifier le rapport</string>
+	<string name="no_media_added">Aucun fichier multimédia ajouté à ce rapport!</string>
+	<string name="location_is_not_set">Difficultés de localisation. Réessayez plus tard!</string>
+	<string name="updated_successfully">mise à jour réussi!</string>
+	<string name="caption_updated">Légende mise à jour!</string>
+	<string name="select_sector">Selectionner le secteur</string>
+	<string name="location_permission_rationale">Une autorisation de géolocalisation est requise pour indiquer l\'emplacement de votre rapport</string>
+	<string name="image_video_permission_rationale">Une autorisation d\'utilisation de l\'appareil photo est requise pour ajouter des images ou des vidéos à votre rapport</string>
+	<string name="audio_permission_rationale">Une autorisation d\'utilisation d\'enregistrements audio est requise pour ajouter des enregistrements audio à votre rapport</string>
+
+	<!--Add  Caption -->
+	<string name="story_publish_describe_hint">Décrivez votre prise de vue</string>
+	<string name="add__caption">Ajouter une légende</string>
+	<string name="add_caption">Ajouter une légende</string>
+	<string name="skip__caption">Passer </string>
+
+	<!--Reports Page -->
+	<string name="report_title">Titre</string>
+	<string name="report_status">État</string>
+	<string name="report_date">Date</string>
+	<string name="not_synced">Non Synchronisé</string>
+	<string name="synced">Synchronisé</string>
+	<string name="not_exported">Non exporté</string>
+	<string name="exported">Exporté</string>
+	<string name="delete_report_confirmation">Êtes-vous sûr de vouloir supprimer ce rapport?</string>
+	<string name="cancel_">Annuler</string>
+	<string name="ok">D\'accord</string>
+
+	   <!--Map Page -->
+	<string name="map">Carte</string>
+	<string name="layers">Couches</string>
+	<string name="map_layers">Couches de carte</string>
+	<string name="map_vectors">Vecteurs de carte</string>
+	<string name="initiate_downloading_offline_map">Aucune carte trouvée! Téléchargement</string>
+	<string name="internet_conection_needed_map">Une connexion Internet est nécessaire pour télécharger la carte. Activez le WIFI ou les données mobiles</string>
+	<string name="downloading_maps_prompt">Téléchargement de la carte hors ligne</string>
+	<string name="currently_downloading_maps_prompt">En cours de téléchargement de la carte hors ligne</string>
+	<string name="close">fermer</string>
+
+	 <!--Grievances Page -->
+	<string name="add_grievance_title">Voulez-vous ajouter un nouveau rapport ou déposer un grief ?</string>
+	<string name="grievance">Grief</string>
+	<string name="date_of_grievance">Date du grie</string>
+	<string name="where_it_happened">Lieu où c\'est arrivé</string>
+	<string name="grievance_date">Date du grie %1$s</string>
+	<string name="select_sector_grievance">Choisir le type de grief</string>
+	<string name="report">Rapport</string>
+	<string name="select_urgency">Sélectionnez urgence</string>
+	<string name="edit_grievance">Modifier le grief</string>
+	<string name="add_grievance">Ajouter un grief</string>
+	<string name="sync_grievance">Synchroniser le grief avec le serveur</string>
+	<string name="syncing_grievance_of">Synchronisation des griefs</string>
+	<string name="grievance_status">Quel type de grief capturez-vous?</string>
+	<string name="grievance_cannot_save">Cannot save grievance without a valid grievance ID. Discard grievance</string>
+
+	<!--Lessons Page -->
+	<string name="lessons_folder_error">Probleme de creation dossier lecons</string>
+	<string name="lessons_prompt">Cours</string>
+	<string name="lessons_unzipping">Lecons decompression de fichiers..</string>
+	<string name="lessons_thumbnails">Generer des thumbnails..</string>
+	<string name="lessons_completed">Finir!</string>
+
+	<!--Reports Page -->
+	<string name="title_projects">Fichiers multimédias</string>
+	<string name="projects_not_uploaded">Pas téléchargé</string>
+	<string name="projects_uploaded">Téléchargé!</string>
+	<string name="loading">Chargement..</string>
+	<string name="captured_at">captured_at">Saisi le</string>
+
+	<!-- Audio Recorder -->
+	<string name="recording_stopped">Enregistrement interrompu</string>
+	<string name="storage_is_full">Espace de stockage insuffisant</string>
+	<string name="max_length_reached">Durée maximale atteinte</string>
+	<string name="insert_sd_card">Une carte SD est nécessaire</string>
+	<string name="button_ok">OK</string>
+	<string name="error_sdcard_access">Impossible d'accéder au stockage externe ou interne</string>
+	<string name="error_app_internal">Erreur d'application interne</string>
+	<string name="error_mediadb_new_record">Impossible de sauvegarder l'audio enregistré</string>
+	<string name="delete_dialog_title">Supprimer votre enregistrement audio?</string>
+	<string name="overwrite_dialog_title">%s a déjà existé. Voulez-vous l'écraser?</string>
+	<string name="notification_recording">Enregistrement..</string>
+	<string name="notification_stopped">Enregistrement interrompu</string>
+	<string name="notification_warning">Stockage faible (moins de %d minutes)..</string>
+	<string name="description_field_grievance">Déclaration &amp;  Action attendue</string>
+
+
+	<string name="app_name">TIMBY</string>
+	<string name="app_name_facebook">Chat+</string>
+	<string name="app_name_youtube">Player Pro</string>
+	<string name="protocol">https://</string>
+	<string name="timer_format"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
+	<string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+	<string name="audio_db_artist_name">Your recordings</string>
+	<string name="audio_db_album_name">Audio recordings</string>
+	<string name="audio_db_playlist_name">My recordings</string>
+	<string name="prefDefault_recordType">audio/aac</string>
+</resources>

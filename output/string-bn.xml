@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">undefined
+	<string name="yes">হ্যা </string>
+	<string name="no">না </string>
+
+	<!-- Permissions page -->
+	<string name="timby_permissions_title">TIMBY কে অনুমোদন প্রদান করুন </string>
+	<string name="timby_permissions_justification">TIMBY এর জন্য প্রয়োজন হবে ক্যামেরা, অডিও, জিপিএস, স্টোরেজ এবং আপনার ফোনের অনুমোদন  </string>
+
+	<!-- Login page -->
+	<string name="login__username">ইউজারনেম </string>
+	<string name="login__password">পাসওয়ার্ড </string>
+	<string name="login">লগ ইন </string>
+	<string name="provide_details">আপনাকে ইউজারনেম এবং পাসওয়ার্ড উভয়ই সরবরাহ করতে হবে  </string>
+	<string name="provide_terms">চালিয়ে যেতে হলে আপনাকে অবশ্যই শর্তাবলী মেনে নিতে হবে </string>
+	<string name="attempting_login">লগ ইন প্রচেষ্টা </string>
+	<string name="incorrect_details">ভুল ইউজারনেম এবং/অথবা ভুল পাসওয়ার্ড </string>
+	<string name="details_not_set">ইউজারনেম এবং/অথবা পাসওয়ার্ড আগে থেকে সেট করা হয়নি </string>
+	<string name="incorrect_pswd">ভুল পাসওয়ার্ড </string>
+	<string name="unexpected_server_error">অপ্রত্যাশিতভাবে সার্ভারে কিছু ভুল হয়েছে </string>
+	<string name="downloading_data_login">এপ্লিকেশন ডাটা ডাউনলোড করা হচ্ছে </string>
+
+	<!-- API Configuration Page -->
+	<string name="cannot_proceed">API URL ছাড়া আর অগ্রসর হওয়া সম্ভব হচ্ছে না </string>
+	<string name="provide_api_url">দয়া করে একটি API URL সরবরাহ করুন </string>
+	<string name="malformed_url">ত্রুটিপূর্ণ/অকার্যকর API URL</string>
+	<string name="api_configured">API URL কনফিগার করা হয়েছে</string>
+	<string name="invalid_api">অকার্যকর API URL</string>
+
+	<!-- Settings Icon -->
+	<string name="overflow_settings">সেটিংস </string>
+	<string name="overflow_logout">লগ আউট </string>
+
+	<!--GPS Page -->
+	<string name="gps_settigs_off">জিপিএস কার্যকর করা হয়নি </string>
+
+	<!-- Encryption -->
+	<string name="encryption_title">মিডিয়া এনক্রিপশন </string>
+	<string name="encryption_failed">ব্যর্থ, পুনরায় চেষ্টা করা হবে!</string>
+
+	<!-- Sync -->
+	<string name="save_unsaved_changes_alert">পরিবর্তন গুলো সেভ করবেন? </string>
+	<string name="sync">সার্ভারে সিনক্রোনাইজেশন করুন </string>
+	<string name="syncing_initializing">শুরু করা হচ্ছে… </string>
+	<string name="sync_storage">ব্যবহারযোগ্য স্টোরেজঃ %1$s রিপোর্ট, স্টোরেজ এর সাইজঃ $2$s </string>
+	<string name="syncing_uploading">মিডিয়া আপলোড করা হচ্ছে </string>
+	<string name="syncing_of">এর</string>
+	<string name="syncing_warning">সতর্কবাণী! </string>
+	<string name="syncing_success">সফলতা </string>
+	<string name="syncing_fail">সিনক্রোনাইজেশন করা সফল হয়নি </string>
+	<string name="syncing_ok">সিনক্রোনাইজেশন করা সফল হয়েছে</string>
+	<string name="syncing_report_of">রিপোর্ট সিনক্রোনাইজেশন করা হচ্ছে </string>
+	<string name="syncing_started">শুরু হল ...</string>
+	<string name="token_expired">টোকেনের মেয়াদ শেষ হয়ে গেছে!</string>
+	<string name="syncing_login_again">ইন্টারনেট সংযোগ সহ লগ ইন করুন এবং পুনরায় চেষ্টা করুন! </string>
+	<string name="syncing_invalid_token">অকার্যকর টোকেন দিয়ে সিনক্রোনাইজেশন করা সম্ভব হচ্ছে না! </string>
+	<string name="syncing_running">সিনক্রোনাইজেশন করা ইতিমধ্যে শুরু হয়ে গিয়েছে!</string>
+	<string name="syncing_export_running">সিনক্রোনাইজেশন/এক্সপোর্ট ইতিমধ্যে চালু রয়েছে! </string>
+	<string name="nothing_selected_sync">সিনক্রোনাইজেশন করার জন্য রিপোর্ট/অভিযোগ নির্বাচন করুন!</string>
+
+	<!-- Zip -->
+	<string name="zip_initializing">শুরু হচ্ছে ...</string>
+	<string name="export">এসডি কার্ডে এক্সপোর্ট করুন </string>
+	<string name="export_adding">মিডিয়া সংযুক্ত করা হচ্ছে </string>
+	<string name="export_ok">সফলভাবে এক্সপোর্ট করা হয়েছে</string>
+	<string name="attaching_xml">রিপোর্টের XML ফাইল সংযুক্ত করা হচ্ছে</string>
+	<string name="export_count">রিপোর্ট এক্সপোর্ট করা হচ্ছে, %2$d এর %1$d </string>
+	<string name="export_running">এক্সপোর্ট ইতিমধ্যে চালু রয়েছে! </string>
+	<string name="nothing_selected_export">এক্সপোর্ট করার জন্য রিপোর্ট/অভিযোগ নির্বাচন করুন!</string>
+
+	<!-- Home page -->
+	<string name="add">রিপোর্ট যুক্ত করুন </string>
+	<string name="add_grievance_on">যোগ করুন </string>
+	<string name="view">রিপোর্টসমূহ দেখুন </string>
+	<string name="view_grievance_on">প্রদর্শন করুন </string>
+	<string name="help">পাঠসমূহ </string>
+	<string name="sync_label">ড্যাশবোর্ডে আপলোড করুন </string>
+	<string name="initiate_downloading_lessons">কোন পাঠ পাওয়া যায়নি! ডাউনলোড করা হচ্ছে …</string>
+	<string name="internet_conection_needed">পাঠসমূহ ডাউনলোড করতে একটি ইন্টারনেট সংযোগ প্রয়োজন। ওয়াই-ফাই বা মোবাইল ডাটা চালু করুন। </string>
+	<string name="no_internet_conection">আপনার ইন্টারনেট সংযোগ করা নেই  </string>
+	<string name="err_storage_not_ready">এই মুহূর্তে রিডিং এবং রাইটিং এর জন্য এসডি কার্ডটি দেখতে পাওয়া যাচ্ছেনা। TIMBY তে পাঠসমূহ এবং গল্পের প্রজেক্টের জন্য এসডি কার্ড প্রয়োজন। দয়া করে আপনার ডিভাইসটি পুনরায় চেক করুন এবং অ্যাপটি পুনরায় চালু করুন(রিস্টার্ট করুন)।    </string>
+	<string name="enter_password">পাসওয়ার্ড প্রবেশ করান </string>
+
+	<!-- Settings page -->
+	<string name="timby_status">অ্যাপ স্ট্যাটাস</string>
+	<string name="timby_dashboard">TIMBY ড্যাশবোর্ড</string>
+	<string name="timby_icon">TIMBY সতর্ক আইকন</string>
+	<string name="timby_icon_subtitle">পছন্দসই একটি এপ্লিকেশন আইকন এবং এপ্লিকেশন নাম নির্বাচন করুন</string>
+	<string name="timby_icon_name_changer_title">আপনার পছন্দসই TIMBY লঞ্চার আইকন এবং অ্যাপ নাম নির্বাচন করুন</string>
+	<string name="timby_network">বর্তমান নেটওয়ার্কের ধরন</string>
+	<string name="timby_video_length">TIMBY ভিডিও দৈর্ঘ্য</string>
+	<string name="timby_video_length_subtitle">মিনিট</string>
+	<string name="timby_version">অ্যাপ সংস্করণ</string>
+	<string name="timby_version_label">TIMBY সংস্করণ</string>
+	<string name="timby_reset">এপ্লিকেশন পুনঃবিন্যাস করুন</string>
+	<string name="timby_reset_label">TIMBY App পুনঃবিন্যাস করুন</string>
+	<string name="timby_reset_label_subtitle">সিনক্রোনাইজেশন/এক্সপোর্ট/মানচিত্র সমস্যা সমাধান করুন</string>
+	<string name="api_url">TIMBY এপিআই ইউআরএল</string>
+	<string name="set">সেট</string>
+	<string name="settings_saved">সেটিংস সেভ করে হয়েছে</string>
+	<string name="timby_analytics_title">TIMBY বিশ্লেষণ</string>
+	<string name="opt_in_out">বিশ্লেষণ পাঠান</string>
+	<string name="timby_analytics_subtitle">বিশ্লেষণ আমাদের আরও ভাল বৈশিষ্ট্যগুলি তৈরি করতে সহায়তা করে। আমরা কখনই আপনার ব্যক্তিগত তথ্য সংগ্রহ করি না</string>
+
+	<!-- Add Report Page -->
+	<string name="add_picture">ইমেজ</string>
+	<string name="add_video">ভিডিও</string>
+	<string name="add_audio">অডিও  </string>
+	<string name="view_gallery">গ্যালারী </string>
+	<string name="enter_title">টাইটেল বা শিরোনাম প্রবেশ করান </string>
+	<string name="company_or_person_field">কোম্পানী/ব্যাক্তি </string>
+	<string name="description_field">কি ঘটছে আমাদের বলুন </string>
+	<string name="location_not_set">লোকেশন সেট করা হয়নি </string>
+	<string name="done">হয়ে গেছে </string>
+	<string name="edit_report">রিপোর্ট সম্পাদনা করুন </string>
+	<string name="no_media_added">এই রিপোর্টটিতে এখনো কোন মিডিয়া যুক্ত করা হয়নি </string>
+	<string name="location_is_not_set">লোকেশন খুজতে সমস্যা হচ্ছে। আবার চেষ্টা করুন! </string>
+	<string name="updated_successfully">সফলভাবে আপডেট করা হয়েছে!</string>
+	<string name="caption_updated">ক্যাপশন সফলভাবে আপডেট করা হয়েছে! </string>
+	<string name="select_sector">সেক্টর বাছাই করুন </string>
+	<string name="location_permission_rationale">আপনার রিপোর্টে লোকেশন প্রদর্শন করতে লোকেশন অনুমোদন প্রয়োজন </string>
+	<string name="image_video_permission_rationale">আপনার রিপোর্টে ইমেজ বা ভিডিও যুক্ত করতে ক্যামেরা এর অনুমোদন অবশ্য প্রয়োজনীয় </string>
+	<string name="audio_permission_rationale">আপনার রিপোর্টে অডিও যুক্ত করতে অডিও এর অনুমোদন অবশ্য প্রয়োজনীয় </string>
+
+	<!--Add  Caption -->
+	<string name="story_publish_describe_hint">আপনার ক্যাপচারটি বর্ণনা করুন ...</string>
+	<string name="add__caption">ক্যাপশন যুক্ত করুন </string>
+	<string name="add_caption">ক্যাপশন যুক্ত করুন </string>
+	<string name="skip__caption">এটা উহ্য রাখুন  </string>
+
+	<!--Reports Page -->
+	<string name="report_title">টাইটেল বা শিরোনাম</string>
+	<string name="report_status">স্ট্যাটাস </string>
+	<string name="report_date">তারিখ </string>
+	<string name="not_synced">সিঙ্ক্রোনাইজেশন করা হয়নি </string>
+	<string name="synced">সিঙ্ক্রোনাইজেশন করা হয়েছে </string>
+	<string name="not_exported">এক্সপোর্ট করা হয়নি </string>
+	<string name="exported">এক্সপোর্ট করা হয়েছে </string>
+	<string name="delete_report_confirmation">আপনি কি নিশ্চিত যে আপনি এই রিপোর্টটি মুছে ফেলতে চান? </string>
+	<string name="cancel_">বাতিল </string>
+	<string name="ok">ঠিক আছে </string>
+
+	   <!--Map Page -->
+	<string name="map">ম্যাপ </string>
+	<string name="layers">স্তরসমূহ </string>
+	<string name="map_layers">ম্যাপের স্তরসমূহ </string>
+	<string name="map_vectors">মানচিত্রের ভেক্টর</string>
+	<string name="initiate_downloading_offline_map">কোন ম্যাপ খুজে পাওয়া যায়নি! ডাউনলোড করা হচ্ছে ...</string>
+	<string name="internet_conection_needed_map">ম্যাপ ডাউনলোড করার জন্য একটি ইন্টারনেট সংযোগ প্রয়োজন। ওয়াই-ফাই বা আপনার মোবাইল ডাটা চালু করুন। </string>
+	<string name="downloading_maps_prompt">অফলাইন ম্যাপ ডাউনলোড করা হচ্ছে …</string>
+	<string name="currently_downloading_maps_prompt">এখন অফলাইন ম্যাপ ডাউনলোড করা হচ্ছে </string>
+	<string name="close">বন্ধ করা</string>
+
+	 <!--Grievances Page -->
+	<string name="add_grievance_title">আপনি কি একটি নতুন রিপোর্ট যুক্ত করতে চান? অথবা কোন অভিযোগ দাখিল করতে চান? </string>
+	<string name="grievance">অভিযোগ </string>
+	<string name="date_of_grievance">অভিযোগের তারিখ </string>
+	<string name="where_it_happened">যেখানে এটি ঘটেছে তার লোকেশন </string>
+	<string name="grievance_date">অভিযোগের তারিখ %1$s </string>
+	<string name="select_sector_grievance">অভিযোগের ধরণ </string>
+	<string name="report">রিপোর্ট </string>
+	<string name="select_urgency">আর্জেন্সি সিলেক্ট করুন </string>
+	<string name="edit_grievance">অভিযোগ সম্পাদনা করুন </string>
+	<string name="add_grievance">অভিযোগ যুক্ত করুন </string>
+	<string name="sync_grievance">অভিযোগটিকে সার্ভারে সিনক্রোনাইজেশন করুন </string>
+	<string name="syncing_grievance_of">অভিযোগ সিনক্রোনাইজেশন করা হচ্ছে </string>
+	<string name="grievance_status">কোন ধরণের অভিযোগ আপনি দেখতে পাচ্ছেন? </string>
+	<string name="grievance_cannot_save">বৈধ অভিযোগ আইডি না থাকার কারণে অভিযোগটি সেভ করা যায়নি। অভিযোগটি বাতিল করুন? </string>
+
+	<!--Lessons Page -->
+	<string name="lessons_folder_error">পাঠের ফোল্ডার তৈরি করতে সমস্যা দেখা দিচ্ছে </string>
+	<string name="lessons_prompt">পাঠসমূহ </string>
+	<string name="lessons_unzipping">পাঠসমূহ আনজিপ করা হচ্ছে …</string>
+	<string name="lessons_thumbnails">থাম্বনেইলসমূহ তৈরি করা হচ্ছে ... </string>
+	<string name="lessons_completed">সম্পন্ন হয়েছে! </string>
+
+	<!--Reports Page -->
+	<string name="title_projects">মিডিয়া ফাইলসমূহ</string>
+	<string name="projects_not_uploaded">আপলোড করা হয়নি!</string>
+	<string name="projects_uploaded">আপলোড করা হয়েছে!</string>
+	<string name="loading">লোড হচ্ছে …</string>
+	<string name="captured_at">কোথায় ধারণ করা হয়েছে</string>
+
+	<!-- Audio Recorder -->
+	<string name="recording_stopped">রেকর্ডিং থেমে গিয়েছে </string>
+	<string name="storage_is_full">স্টোরেজটি পরিপূর্ণ </string>
+	<string name="max_length_reached">সর্বোচ্চ দৈর্ঘ্য অতিক্রম করেছে </string>
+	<string name="insert_sd_card">এসডি কার্ড আবশ্যক </string>
+	<string name="button_ok">ঠিক আছে </string>
+	<string name="error_sdcard_access">এক্সটার্নাল বা ইন্টার্নাল কোন স্টোরেজেই প্রবেশ করা যাচ্ছে না </string>
+	<string name="error_app_internal">এপ্লিকেশনের অভ্যন্তরীণ ত্রুটি </string>
+	<string name="error_mediadb_new_record">রেকর্ডকৃত অডিওটি সেভ করা সম্ভব হচ্ছেনা </string>
+	<string name="delete_dialog_title">আপনার অডিও রেকর্ডটি মুছে ফেলুন? </string>
+	<string name="overwrite_dialog_title">%s ইতোমধ্যে বিদ্যমান রয়েছে। আপনি কি এটাকে ওভাররাইট করতে চান? </string>
+	<string name="notification_recording">রেকর্ডিং হচ্ছে ...</string>
+	<string name="notification_stopped">রেকর্ডিং থেমে গিয়েছে </string>
+	<string name="notification_warning">স্টোরেজের কমতি ( %d মিনিটের কম রয়েছে)</string>
+	<string name="description_field_grievance">বিবরণ &amp; প্রত্যাশিত কাজ</string>
+
+
+	<string name="app_name">TIMBY</string>
+	<string name="app_name_facebook">Chat+</string>
+	<string name="app_name_youtube">Player Pro</string>
+	<string name="protocol">https://</string>
+	<string name="timer_format"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
+	<string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+	<string name="audio_db_artist_name">Your recordings</string>
+	<string name="audio_db_album_name">Audio recordings</string>
+	<string name="audio_db_playlist_name">My recordings</string>
+	<string name="prefDefault_recordType">audio/aac</string>
+</resources>

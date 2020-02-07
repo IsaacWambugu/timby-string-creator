@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">undefined
+	<string name="yes">CÓ</string>
+	<string name="no">KHÔNG</string>
+
+	<!-- Permissions page -->
+	<string name="timby_permissions_title">Cho TIMBY quyền truy cập</string>
+	<string name="timby_permissions_justification">TIMBY cần truy cập vào máy ảnh, âm thanh, GPS, kho lưu trữ và điện thoại</string>
+
+	<!-- Login page -->
+	<string name="login__username">Tên đăng nhập</string>
+	<string name="login__password">Mật khẩu</string>
+	<string name="login">Đăng nhập</string>
+	<string name="provide_details">Bạn cần cần điền tên người dùng và mật khẩu</string>
+	<string name="provide_terms">Bạn cần chấp nhận các điều khoản và điều kiện để tiếp tục</string>
+	<string name="attempting_login">Đang đang nhập</string>
+	<string name="incorrect_details">Sai tên người dùng và/hoặc mật khẩu</string>
+	<string name="details_not_set">Tên người dùng và/hoặc mật khẩu chưa được thiết lập</string>
+	<string name="incorrect_pswd">Sai mật khẩu</string>
+	<string name="unexpected_server_error">Lỗi máy chủ</string>
+	<string name="downloading_data_login">Dữ liệu ứng dụng đang được tải xuống ..</string>
+
+	<!-- API Configuration Page -->
+	<string name="cannot_proceed">Không thể tiếp tục nếu không có API URL</string>
+	<string name="provide_api_url">Vui lòng cung cấp API URL</string>
+	<string name="malformed_url">API URL không đúng định dạng/không hợp lệ</string>
+	<string name="api_configured">Đã cấu hình API URL!</string>
+	<string name="invalid_api">API URL không hợp lệ</string>
+
+	<!-- Settings Icon -->
+	<string name="overflow_settings">Cài đặt</string>
+	<string name="overflow_logout">Đăng xuất</string>
+
+	<!--GPS Page -->
+	<string name="gps_settigs_off">Chưa kích hoạt GPS</string>
+
+	<!-- Encryption -->
+	<string name="encryption_title">Mã hóa phương tiện</string>
+	<string name="encryption_failed">Không thành công, vui lòng thử lại!</string>
+
+	<!-- Sync -->
+	<string name="save_unsaved_changes_alert">Lưu thay đổi? (Có/Không)</string>
+	<string name="sync">Đồng bộ với máy chủ</string>
+	<string name="syncing_initializing">Đang khởi tạo..</string>
+	<string name="sync_storage">Dung lượng lưu trữ khả dụng: %1 $s Kích thước lưu trữ báo cáo: %2 $s</string>
+	<string name="syncing_uploading">Tải lên phương tiện</string>
+	<string name="syncing_of">của</string>
+	<string name="syncing_warning">Cảnh báo!</string>
+	<string name="syncing_success">Thành công</string>
+	<string name="syncing_fail">Đồng bộ không thành công</string>
+	<string name="syncing_ok">Đồng bộ thành công</string>
+	<string name="syncing_report_of">Báo cáo đồng bọ</string>
+	<string name="syncing_started">Đang chạy…</string>
+	<string name="token_expired">Mã thông báo hết hạn!</string>
+	<string name="syncing_login_again">Đăng nhập bằng Internet và thử lại!</string>
+	<string name="syncing_invalid_token">Không thể đồng bộ với mã thông báo không hợp lệ!</string>
+	<string name="syncing_running">Đang đồng bộ hóa!</string>
+	<string name="syncing_export_running">Đồng bộ hóa / Xuất đã chạy!</string>
+	<string name="nothing_selected_sync">Chọn báo cáo / khiếu nại để đồng bộ hóa!</string>
+
+	<!-- Zip -->
+	<string name="zip_initializing">Đang khởi tạo..</string>
+	<string name="export">Xuất dữ liệu vào thẻ SD</string>
+	<string name="export_adding">Thêm phương tiện</string>
+	<string name="export_ok">Xuất dữ liệu thành công</string>
+	<string name="attaching_xml">Đính kèm báo cáo file XML</string>
+	<string name="export_count">Xuất báo cáo%1$d của %2$d</string>
+	<string name="export_running">Xuất đã chạy!</string>
+	<string name="nothing_selected_export">Chọn báo cáo / khiếu nại để xuất!</string>
+
+	<!-- Home page -->
+	<string name="add">Thêm báo cáo</string>
+	<string name="add_grievance_on">Thêm</string>
+	<string name="view">Xem báo cáo</string>
+	<string name="view_grievance_on">Xem</string>
+	<string name="help">Bài học</string>
+	<string name="sync_label">Tải lên Dashboard</string>
+	<string name="initiate_downloading_lessons">Không tìm thấybài học! Đang tải..</string>
+	<string name="internet_conection_needed">Cần kết nối Internet để tải bài học. Vui lòng kết nối WiFi hoặc sử dụng dữ liệu di động</string>
+	<string name="no_internet_conection">Bạn không có kết nối Internet!</string>
+	<string name="err_storage_not_ready">Bộ nhớ ngoài (SD Card) không thể sử dụng để đọc và viết lúc này. TIMBY yêu cầu quyền truy cập vào Bộ nhớ này để truy cập vào dữ liệu bài học và câu chuyện của dự án. Vui lòng kiểm tra thiết bị của bạn và khởi động lại ứng dụng.</string>
+	<string name="enter_password">Nhập mật khẩu</string>
+
+	<!-- Settings page -->
+	<string name="timby_status">CẤU HÌNH ỨNG DỤNG</string>
+	<string name="timby_dashboard">Bảng điều khiển TIMBY</string>
+	<string name="timby_icon">Biểu tượng kín đáo của TIMBY</string>
+	<string name="timby_icon_subtitle">Chọn một biểu tượng ứng dụng ưa thích và tên ứng dụng</string>
+	<string name="timby_icon_name_changer_title">Chọn biểu tượng và tên ứng dụng trình khởi chạy TIMBY mong muốn của bạn</string>
+	<string name="timby_network">Loại mạng hiện tại</string>
+	<string name="timby_video_length">Thời lượng video TIMBY</string>
+	<string name="timby_video_length_subtitle">phút</string>
+	<string name="timby_version">PHIÊN BẢN ỨNG DỤNG</string>
+	<string name="timby_version_label">Phiên bản TIMBY</string>
+	<string name="timby_reset">ỨNG DỤNG</string>
+	<string name="timby_reset_label">Đặt lại ứng dụng TIMBY</string>
+	<string name="timby_reset_label_subtitle">Giải quyết các vấn đề về Đồng bộ hóa / Xuất / Bản đồ</string>
+	<string name="api_url">TIMBY API URL</string>
+	<string name="set">Thiết lập</string>
+	<string name="settings_saved">Các cài đặt đã được lưu!</string>
+	<string name="timby_analytics_title">Phân tích TIMBY</string>
+	<string name="opt_in_out">Gửi phân tích</string>
+	<string name="timby_analytics_subtitle">Phân tích giúp chúng tôi xây dựng các tính năng tốt hơn. Chúng tôi không bao giờ thu thập thông tin cá nhân của bạn</string>
+
+	<!-- Add Report Page -->
+	<string name="add_picture">Hình ảnh</string>
+	<string name="add_video">Video</string>
+	<string name="add_audio">Âm thanh</string>
+	<string name="view_gallery">Thư viện</string>
+	<string name="enter_title">Nhập tiêu đề</string>
+	<string name="company_or_person_field">Công ty / Người</string>
+	<string name="description_field">Cho chúng tôi biết điều gì đang xảy ra</string>
+	<string name="location_not_set">Chưa cài đặt vị trí</string>
+	<string name="done">Đã hoàn tất</string>
+	<string name="edit_report">Sửa báo cáo</string>
+	<string name="no_media_added">Chưa có phương tiện nào được thêm vào báo cáo này!</string>
+	<string name="location_is_not_set">Sự cố khi tìm vị trí. Thử lại sau!</string>
+	<string name="updated_successfully">Cập nhật thành công!</string>
+	<string name="caption_updated">Đã cập nhật chú thích thành công!</string>
+	<string name="select_sector">Chọn ngành</string>
+	<string name="location_permission_rationale">Cần có quyền truy cập vị trí để hiển thị vị trí của báo cáo của bạn</string>
+	<string name="image_video_permission_rationale">Cần có quyền truy cập máy ảnh để thêm hình ảnh hoặc video vào báo cáo của bạn</string>
+	<string name="audio_permission_rationale">Cần có quyền truy cập âm thanh để thêm âm thanh vào báo cáo của bạn</string>
+
+	<!--Add  Caption -->
+	<string name="story_publish_describe_hint">Mô tả ảnh chụp của bạn ..</string>
+	<string name="add__caption">Thêm chú thích</string>
+	<string name="add_caption">Thêm chú thích</string>
+	<string name="skip__caption">Bỏ qua</string>
+
+	<!--Reports Page -->
+	<string name="report_title">Tiêu đề</string>
+	<string name="report_status">Trạng thái</string>
+	<string name="report_date">Ngày</string>
+	<string name="not_synced">Chưa đồng bộ</string>
+	<string name="synced">Đã đồng bộ</string>
+	<string name="not_exported">Chưa xuất</string>
+	<string name="exported">Đã xuất</string>
+	<string name="delete_report_confirmation">Bạn có chắc chắn muốn xóa báo cáo không?</string>
+	<string name="cancel_">Hủy</string>
+	<string name="ok">OK</string>
+
+	   <!--Map Page -->
+	<string name="map">Bản đồ</string>
+	<string name="layers">Lớp</string>
+	<string name="map_layers">Lớp bản đồ</string>
+	<string name="map_vectors">Bản đồ vectơ</string>
+	<string name="initiate_downloading_offline_map">Không tìm thấy bản đồ nào! Đang tải xuống ..</string>
+	<string name="internet_conection_needed_map">Cần có kết nối Internet để tải bản đồ. Bật WIFI hoặc Dữ liệu di động.</string>
+	<string name="downloading_maps_prompt">Đang tải bản đồ ngoại tuyến</string>
+	<string name="currently_downloading_maps_prompt">Đang tải bản đồ ngoại tuyến</string>
+	<string name="close">gần</string>
+
+	 <!--Grievances Page -->
+	<string name="add_grievance_title">Bạn có muốn thêm một báo cáo mới hoặc nộp đơn khiếu nại không?</string>
+	<string name="grievance">Khiếu nại</string>
+	<string name="date_of_grievance">Ngày khiếu nại</string>
+	<string name="where_it_happened">Địa điểm xảy ra</string>
+	<string name="grievance_date">Ngày khiếu nại</string>
+	<string name="select_sector_grievance">Chọn loại khiếu nại</string>
+	<string name="report">Báo cáo</string>
+	<string name="select_urgency">Chọn mức độ khẩn cấp</string>
+	<string name="edit_grievance">Chỉnh sửa khiếu nại</string>
+	<string name="add_grievance">Thêm khiếu nại</string>
+	<string name="sync_grievance">Đồng bộ hóa khiếu nại với máy chủ</string>
+	<string name="syncing_grievance_of">Đang đồng bộ hóa khiếu nại với máy chủ</string>
+	<string name="grievance_status">Bạn đang chụp loại Khiếu Nại nào?</string>
+	<string name="grievance_cannot_save">Không thể lưu khiếu nại mà không có ID khiếu nại hợp lệ. Hủy bỏ khiếu nại</string>
+
+	<!--Lessons Page -->
+	<string name="lessons_folder_error">Sự cố khi tạo thư mục bài học</string>
+	<string name="lessons_prompt">Bài học</string>
+	<string name="lessons_unzipping">Giải nén bài học..</string>
+	<string name="lessons_thumbnails">Đang tạo hình thu nhỏ ..</string>
+	<string name="lessons_completed">Hoàn thành!</string>
+
+	<!--Reports Page -->
+	<string name="title_projects">Tệp phương tiện</string>
+	<string name="projects_not_uploaded">Chưa được tải lên</string>
+	<string name="projects_uploaded">Đã tải lên</string>
+	<string name="loading">Đang tải..</string>
+	<string name="captured_at">Chụp tại</string>
+
+	<!-- Audio Recorder -->
+	<string name="recording_stopped">Đã dừng ghi âm</string>
+	<string name="storage_is_full">Lưu trữ đầy</string>
+	<string name="max_length_reached">Đã đạt đến độ dài tối đa</string>
+	<string name="insert_sd_card">Cần có thẻ SD</string>
+	<string name="button_ok">OK</string>
+	<string name="error_sdcard_access">Không thể truy cập bộ nhớ ngoài hoặc bộ nhớ trong</string>
+	<string name="error_app_internal">Lỗi ứng dụng</string>
+	<string name="error_mediadb_new_record">Không thể lưu âm thanh đã ghi</string>
+	<string name="delete_dialog_title">Xóa bản ghi âm của bạn?</string>
+	<string name="overwrite_dialog_title">... đã tồn tại. Bạn có muốn thay thế bản ghi này?</string>
+	<string name="notification_recording">Đang ghi âm</string>
+	<string name="notification_stopped">Đã dừng ghi âm</string>
+	<string name="notification_warning">Dung lượng thấp (ít hơn .... phút) ..</string>
+	<string name="description_field_grievance">Tuyên bố ...; Hành động dự kiến</string>
+
+
+	<string name="app_name">TIMBY</string>
+	<string name="app_name_facebook">Chat+</string>
+	<string name="app_name_youtube">Player Pro</string>
+	<string name="protocol">https://</string>
+	<string name="timer_format"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
+	<string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+	<string name="audio_db_artist_name">Your recordings</string>
+	<string name="audio_db_album_name">Audio recordings</string>
+	<string name="audio_db_playlist_name">My recordings</string>
+	<string name="prefDefault_recordType">audio/aac</string>
+</resources>
